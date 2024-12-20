@@ -1,0 +1,9 @@
+2024-12-19 20:54:39,444 - INFO - Fetched 0 records from Bronze Layer.
+2024-12-19 20:54:39,445 - ERROR - An error occurred: ['amount', 'merchant_state', 'zip']
+2024-12-19 20:56:34,228 - INFO - Fetched 150000 records from Bronze Layer.
+2024-12-19 20:56:34,491 - INFO - Records after removing missing critical fields: 132774
+2024-12-19 20:56:34,557 - INFO - Records after cleaning 'amount': 125032
+2024-12-19 20:56:35,067 - INFO - Standardized 'date' field to ISO format.
+2024-12-19 20:56:35,086 - INFO - Filled missing 'errors' field with 'No Errors'.
+2024-12-19 20:56:35,088 - INFO - Cleaned 'zip' field by filling missing values.
+2024-12-19 20:56:36,485 - INFO - Inserted 125032 records into the Silver Layer.

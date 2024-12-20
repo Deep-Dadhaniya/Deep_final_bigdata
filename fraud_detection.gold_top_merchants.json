@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f414"
+  },
+  "transaction_count": 6752,
+  "merchant_id": 27092
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f415"
+  },
+  "transaction_count": 5095,
+  "merchant_id": 61195
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f416"
+  },
+  "transaction_count": 5075,
+  "merchant_id": 59935
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f417"
+  },
+  "transaction_count": 3664,
+  "merchant_id": 14528
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f418"
+  },
+  "transaction_count": 3516,
+  "merchant_id": 50783
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f419"
+  },
+  "transaction_count": 3437,
+  "merchant_id": 60569
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f41a"
+  },
+  "transaction_count": 3215,
+  "merchant_id": 22204
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f41b"
+  },
+  "transaction_count": 3074,
+  "merchant_id": 75781
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f41c"
+  },
+  "transaction_count": 3024,
+  "merchant_id": 43293
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f41d"
+  },
+  "transaction_count": 2563,
+  "merchant_id": 20519
+}]

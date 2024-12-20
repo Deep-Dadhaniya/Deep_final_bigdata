@@ -1,0 +1,368 @@
+[{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f38c"
+  },
+  "total_daily_amount": 129970,
+  "transaction_count": 2807,
+  "date": "2010-01-01"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f38d"
+  },
+  "total_daily_amount": 130736.53,
+  "transaction_count": 2495,
+  "date": "2010-01-02"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f38e"
+  },
+  "total_daily_amount": 129160.93,
+  "transaction_count": 2808,
+  "date": "2010-01-03"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f38f"
+  },
+  "total_daily_amount": 124157.84,
+  "transaction_count": 2727,
+  "date": "2010-01-04"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f390"
+  },
+  "total_daily_amount": 139094.9,
+  "transaction_count": 2790,
+  "date": "2010-01-05"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f391"
+  },
+  "total_daily_amount": 134407.64,
+  "transaction_count": 2814,
+  "date": "2010-01-06"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f392"
+  },
+  "total_daily_amount": 143550.1,
+  "transaction_count": 2812,
+  "date": "2010-01-07"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f393"
+  },
+  "total_daily_amount": 135241.12,
+  "transaction_count": 2534,
+  "date": "2010-01-08"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f394"
+  },
+  "total_daily_amount": 142358.45,
+  "transaction_count": 2573,
+  "date": "2010-01-09"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f395"
+  },
+  "total_daily_amount": 140141.98,
+  "transaction_count": 2868,
+  "date": "2010-01-10"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f396"
+  },
+  "total_daily_amount": 143808.33,
+  "transaction_count": 2772,
+  "date": "2010-01-11"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f397"
+  },
+  "total_daily_amount": 135477.16,
+  "transaction_count": 2780,
+  "date": "2010-01-12"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f398"
+  },
+  "total_daily_amount": 139731.17,
+  "transaction_count": 2803,
+  "date": "2010-01-13"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f399"
+  },
+  "total_daily_amount": 142605.52,
+  "transaction_count": 2782,
+  "date": "2010-01-14"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f39a"
+  },
+  "total_daily_amount": 133634.15,
+  "transaction_count": 2511,
+  "date": "2010-01-15"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f39b"
+  },
+  "total_daily_amount": 145654.28,
+  "transaction_count": 2597,
+  "date": "2010-01-16"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f39c"
+  },
+  "total_daily_amount": 118928.78,
+  "transaction_count": 2774,
+  "date": "2010-01-17"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f39d"
+  },
+  "total_daily_amount": 129830.1,
+  "transaction_count": 2751,
+  "date": "2010-01-18"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f39e"
+  },
+  "total_daily_amount": 138943.19,
+  "transaction_count": 2712,
+  "date": "2010-01-19"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f39f"
+  },
+  "total_daily_amount": 139389.77,
+  "transaction_count": 2854,
+  "date": "2010-01-20"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a0"
+  },
+  "total_daily_amount": 146295.82,
+  "transaction_count": 2786,
+  "date": "2010-01-21"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a1"
+  },
+  "total_daily_amount": 129396.94,
+  "transaction_count": 2464,
+  "date": "2010-01-22"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a2"
+  },
+  "total_daily_amount": 134341.23,
+  "transaction_count": 2509,
+  "date": "2010-01-23"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a3"
+  },
+  "total_daily_amount": 139077.46,
+  "transaction_count": 2844,
+  "date": "2010-01-24"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a4"
+  },
+  "total_daily_amount": 134545.15,
+  "transaction_count": 2822,
+  "date": "2010-01-25"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a5"
+  },
+  "total_daily_amount": 142112.75,
+  "transaction_count": 2875,
+  "date": "2010-01-26"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a6"
+  },
+  "total_daily_amount": 131347.95,
+  "transaction_count": 2841,
+  "date": "2010-01-27"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a7"
+  },
+  "total_daily_amount": 138570.82,
+  "transaction_count": 2763,
+  "date": "2010-01-28"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a8"
+  },
+  "total_daily_amount": 126786.66,
+  "transaction_count": 2502,
+  "date": "2010-01-29"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3a9"
+  },
+  "total_daily_amount": 144748.17,
+  "transaction_count": 2554,
+  "date": "2010-01-30"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3aa"
+  },
+  "total_daily_amount": 133525.34,
+  "transaction_count": 2828,
+  "date": "2010-01-31"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3ab"
+  },
+  "total_daily_amount": 137652.45,
+  "transaction_count": 2886,
+  "date": "2010-02-01"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3ac"
+  },
+  "total_daily_amount": 128533.35,
+  "transaction_count": 2806,
+  "date": "2010-02-02"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3ad"
+  },
+  "total_daily_amount": 141725.75,
+  "transaction_count": 2741,
+  "date": "2010-02-03"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3ae"
+  },
+  "total_daily_amount": 143663.89,
+  "transaction_count": 2839,
+  "date": "2010-02-04"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3af"
+  },
+  "total_daily_amount": 146209.12,
+  "transaction_count": 2681,
+  "date": "2010-02-05"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b0"
+  },
+  "total_daily_amount": 144998.25,
+  "transaction_count": 2615,
+  "date": "2010-02-06"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b1"
+  },
+  "total_daily_amount": 159946.07,
+  "transaction_count": 2879,
+  "date": "2010-02-07"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b2"
+  },
+  "total_daily_amount": 139971.18,
+  "transaction_count": 2865,
+  "date": "2010-02-08"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b3"
+  },
+  "total_daily_amount": 148237.35,
+  "transaction_count": 2940,
+  "date": "2010-02-09"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b4"
+  },
+  "total_daily_amount": 137443.21,
+  "transaction_count": 2888,
+  "date": "2010-02-10"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b5"
+  },
+  "total_daily_amount": 146263.93,
+  "transaction_count": 2949,
+  "date": "2010-02-11"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b6"
+  },
+  "total_daily_amount": 136271.96,
+  "transaction_count": 2540,
+  "date": "2010-02-12"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b7"
+  },
+  "total_daily_amount": 142976.85,
+  "transaction_count": 2535,
+  "date": "2010-02-13"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b8"
+  },
+  "total_daily_amount": 144155.45,
+  "transaction_count": 2823,
+  "date": "2010-02-14"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f3b9"
+  },
+  "total_daily_amount": 70012.21,
+  "transaction_count": 1693,
+  "date": "2010-02-15"
+}]

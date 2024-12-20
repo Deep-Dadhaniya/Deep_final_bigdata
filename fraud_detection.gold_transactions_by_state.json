@@ -1,0 +1,408 @@
+[{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f359"
+  },
+  "total_amount": 799005.05,
+  "transaction_count": 15272,
+  "state": "CA"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f35a"
+  },
+  "total_amount": 565787.38,
+  "transaction_count": 11265,
+  "state": "TX"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f35b"
+  },
+  "total_amount": 498618.59,
+  "transaction_count": 9132,
+  "state": "NY"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f35c"
+  },
+  "total_amount": 413601.46,
+  "transaction_count": 8059,
+  "state": "FL"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f35d"
+  },
+  "total_amount": 228033.29,
+  "transaction_count": 5334,
+  "state": "OH"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f35e"
+  },
+  "total_amount": 259229.03,
+  "transaction_count": 5210,
+  "state": "IL"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f35f"
+  },
+  "total_amount": 229102.88,
+  "transaction_count": 4485,
+  "state": "PA"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f360"
+  },
+  "total_amount": 209181.18,
+  "transaction_count": 4484,
+  "state": "NC"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f361"
+  },
+  "total_amount": 198206.09,
+  "transaction_count": 4082,
+  "state": "MI"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f362"
+  },
+  "total_amount": 176219.46,
+  "transaction_count": 3983,
+  "state": "GA"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f363"
+  },
+  "total_amount": 189150.82,
+  "transaction_count": 3532,
+  "state": "NJ"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f364"
+  },
+  "total_amount": 153109.9,
+  "transaction_count": 3479,
+  "state": "IN"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f365"
+  },
+  "total_amount": 164704.73,
+  "transaction_count": 3236,
+  "state": "WA"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f366"
+  },
+  "total_amount": 157082.63,
+  "transaction_count": 3034,
+  "state": "TN"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f367"
+  },
+  "total_amount": 156780.37,
+  "transaction_count": 2517,
+  "state": "VA"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f368"
+  },
+  "total_amount": 93243.19,
+  "transaction_count": 2066,
+  "state": "WI"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f369"
+  },
+  "total_amount": 114935.22,
+  "transaction_count": 2062,
+  "state": "MD"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f36a"
+  },
+  "total_amount": 74458.83,
+  "transaction_count": 2062,
+  "state": "MO"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f36b"
+  },
+  "total_amount": 106020.84,
+  "transaction_count": 1990,
+  "state": "AZ"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f36c"
+  },
+  "total_amount": 82127.59,
+  "transaction_count": 1956,
+  "state": "AL"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f36d"
+  },
+  "total_amount": 89498.65,
+  "transaction_count": 1829,
+  "state": "LA"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f36e"
+  },
+  "total_amount": 94027.63,
+  "transaction_count": 1764,
+  "state": "MN"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f36f"
+  },
+  "total_amount": 81992.54,
+  "transaction_count": 1743,
+  "state": "SC"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f370"
+  },
+  "total_amount": 85131.48,
+  "transaction_count": 1720,
+  "state": "OK"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f371"
+  },
+  "total_amount": 100015.4,
+  "transaction_count": 1626,
+  "state": "CO"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f372"
+  },
+  "total_amount": 87409.02,
+  "transaction_count": 1593,
+  "state": "CT"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f373"
+  },
+  "total_amount": 72921.88,
+  "transaction_count": 1583,
+  "state": "IA"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f374"
+  },
+  "total_amount": 79360.98,
+  "transaction_count": 1518,
+  "state": "KY"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f375"
+  },
+  "total_amount": 83543.56,
+  "transaction_count": 1436,
+  "state": "MA"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f376"
+  },
+  "total_amount": 49546.17,
+  "transaction_count": 1288,
+  "state": "NM"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f377"
+  },
+  "total_amount": 48043.43,
+  "transaction_count": 1220,
+  "state": "MS"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f378"
+  },
+  "total_amount": 47750.89,
+  "transaction_count": 1178,
+  "state": "OR"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f379"
+  },
+  "total_amount": 46001.45,
+  "transaction_count": 1054,
+  "state": "AR"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f37a"
+  },
+  "total_amount": 50939.64,
+  "transaction_count": 1027,
+  "state": "KS"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f37b"
+  },
+  "total_amount": 57867.51,
+  "transaction_count": 777,
+  "state": "HI"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f37c"
+  },
+  "total_amount": 35011.43,
+  "transaction_count": 735,
+  "state": "NE"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f37d"
+  },
+  "total_amount": 64935.84,
+  "transaction_count": 726,
+  "state": "NV"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f37e"
+  },
+  "total_amount": 30410.44,
+  "transaction_count": 672,
+  "state": "NH"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f37f"
+  },
+  "total_amount": 36094.05,
+  "transaction_count": 666,
+  "state": "RI"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f380"
+  },
+  "total_amount": 23748.12,
+  "transaction_count": 608,
+  "state": "WV"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f381"
+  },
+  "total_amount": 23090.19,
+  "transaction_count": 559,
+  "state": "ID"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f382"
+  },
+  "total_amount": 26784.08,
+  "transaction_count": 496,
+  "state": "ME"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f383"
+  },
+  "total_amount": 16852.12,
+  "transaction_count": 377,
+  "state": "SD"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f384"
+  },
+  "total_amount": 16097.2,
+  "transaction_count": 287,
+  "state": "UT"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f385"
+  },
+  "total_amount": 10407.14,
+  "transaction_count": 277,
+  "state": "MT"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f386"
+  },
+  "total_amount": 10681.92,
+  "transaction_count": 260,
+  "state": "VT"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f387"
+  },
+  "total_amount": 11334.77,
+  "transaction_count": 226,
+  "state": "ND"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f388"
+  },
+  "total_amount": 5787.34,
+  "transaction_count": 207,
+  "state": "DE"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f389"
+  },
+  "total_amount": 8935.74,
+  "transaction_count": 154,
+  "state": "DC"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f38a"
+  },
+  "total_amount": 6418.74,
+  "transaction_count": 117,
+  "state": "WY"
+},
+{
+  "_id": {
+    "$oid": "6764d397c367c054c0e6f38b"
+  },
+  "total_amount": 16393.37,
+  "transaction_count": 69,
+  "state": "AK"
+}]

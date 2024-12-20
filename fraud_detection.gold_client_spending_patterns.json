@@ -1,0 +1,9855 @@
+[{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f41e"
+  },
+  "total_spent": 36641.71,
+  "avg_spent": 95.67026109660574,
+  "transaction_count": 383,
+  "client_id": 96
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f41f"
+  },
+  "total_spent": 27092.7,
+  "avg_spent": 58.01434689507495,
+  "transaction_count": 467,
+  "client_id": 1098
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f420"
+  },
+  "total_spent": 26042.86,
+  "avg_spent": 76.82259587020648,
+  "transaction_count": 339,
+  "client_id": 1888
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f421"
+  },
+  "total_spent": 25578.8,
+  "avg_spent": 92.6768115942029,
+  "transaction_count": 276,
+  "client_id": 1340
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f422"
+  },
+  "total_spent": 25048.22,
+  "avg_spent": 119.84794258373206,
+  "transaction_count": 209,
+  "client_id": 1686
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f423"
+  },
+  "total_spent": 22716.77,
+  "avg_spent": 145.6203205128205,
+  "transaction_count": 156,
+  "client_id": 840
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f424"
+  },
+  "total_spent": 22113.29,
+  "avg_spent": 87.06019685039371,
+  "transaction_count": 254,
+  "client_id": 52
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f425"
+  },
+  "total_spent": 21553.96,
+  "avg_spent": 86.56208835341366,
+  "transaction_count": 249,
+  "client_id": 1696
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f426"
+  },
+  "total_spent": 21061.59,
+  "avg_spent": 77.14868131868131,
+  "transaction_count": 273,
+  "client_id": 208
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f427"
+  },
+  "total_spent": 20412.59,
+  "avg_spent": 72.38507092198581,
+  "transaction_count": 282,
+  "client_id": 464
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f428"
+  },
+  "total_spent": 20178.82,
+  "avg_spent": 48.74111111111111,
+  "transaction_count": 414,
+  "client_id": 909
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f429"
+  },
+  "total_spent": 20073.15,
+  "avg_spent": 48.36903614457832,
+  "transaction_count": 415,
+  "client_id": 285
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f42a"
+  },
+  "total_spent": 19218.45,
+  "avg_spent": 82.1301282051282,
+  "transaction_count": 234,
+  "client_id": 630
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f42b"
+  },
+  "total_spent": 18959.48,
+  "avg_spent": 69.7039705882353,
+  "transaction_count": 272,
+  "client_id": 488
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f42c"
+  },
+  "total_spent": 18941.78,
+  "avg_spent": 90.63052631578947,
+  "transaction_count": 209,
+  "client_id": 1168
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f42d"
+  },
+  "total_spent": 18882.13,
+  "avg_spent": 77.3857786885246,
+  "transaction_count": 244,
+  "client_id": 490
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f42e"
+  },
+  "total_spent": 18547.18,
+  "avg_spent": 107.83244186046512,
+  "transaction_count": 172,
+  "client_id": 165
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f42f"
+  },
+  "total_spent": 18453.65,
+  "avg_spent": 52.72471428571429,
+  "transaction_count": 350,
+  "client_id": 1575
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f430"
+  },
+  "total_spent": 18446,
+  "avg_spent": 106.01149425287356,
+  "transaction_count": 174,
+  "client_id": 704
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f431"
+  },
+  "total_spent": 18319.170000000002,
+  "avg_spent": 105.28258620689657,
+  "transaction_count": 174,
+  "client_id": 1692
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f432"
+  },
+  "total_spent": 17828.32,
+  "avg_spent": 122.95393103448275,
+  "transaction_count": 145,
+  "client_id": 989
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f433"
+  },
+  "total_spent": 17148.45,
+  "avg_spent": 61.24446428571429,
+  "transaction_count": 280,
+  "client_id": 1528
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f434"
+  },
+  "total_spent": 16086.74,
+  "avg_spent": 59.80200743494424,
+  "transaction_count": 269,
+  "client_id": 1654
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f435"
+  },
+  "total_spent": 16057.77,
+  "avg_spent": 102.2787898089172,
+  "transaction_count": 157,
+  "client_id": 1487
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f436"
+  },
+  "total_spent": 16008.76,
+  "avg_spent": 76.9651923076923,
+  "transaction_count": 208,
+  "client_id": 1066
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f437"
+  },
+  "total_spent": 15636.52,
+  "avg_spent": 63.56308943089431,
+  "transaction_count": 246,
+  "client_id": 1253
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f438"
+  },
+  "total_spent": 15594.72,
+  "avg_spent": 51.46772277227723,
+  "transaction_count": 303,
+  "client_id": 1776
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f439"
+  },
+  "total_spent": 15562.84,
+  "avg_spent": 61.513201581027666,
+  "transaction_count": 253,
+  "client_id": 1452
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f43a"
+  },
+  "total_spent": 15540.25,
+  "avg_spent": 84.00135135135135,
+  "transaction_count": 185,
+  "client_id": 171
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f43b"
+  },
+  "total_spent": 15385.15,
+  "avg_spent": 133.78391304347826,
+  "transaction_count": 115,
+  "client_id": 1238
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f43c"
+  },
+  "total_spent": 15347.71,
+  "avg_spent": 72.73796208530806,
+  "transaction_count": 211,
+  "client_id": 371
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f43d"
+  },
+  "total_spent": 15179.06,
+  "avg_spent": 73.6847572815534,
+  "transaction_count": 206,
+  "client_id": 303
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f43e"
+  },
+  "total_spent": 15139.42,
+  "avg_spent": 47.75842271293375,
+  "transaction_count": 317,
+  "client_id": 114
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f43f"
+  },
+  "total_spent": 15004.3,
+  "avg_spent": 92.05092024539877,
+  "transaction_count": 163,
+  "client_id": 247
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f440"
+  },
+  "total_spent": 14986.69,
+  "avg_spent": 113.53553030303031,
+  "transaction_count": 132,
+  "client_id": 1988
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f441"
+  },
+  "total_spent": 14877.53,
+  "avg_spent": 64.96737991266376,
+  "transaction_count": 229,
+  "client_id": 1403
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f442"
+  },
+  "total_spent": 14564.02,
+  "avg_spent": 45.5125625,
+  "transaction_count": 320,
+  "client_id": 1559
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f443"
+  },
+  "total_spent": 14552.77,
+  "avg_spent": 59.6425,
+  "transaction_count": 244,
+  "client_id": 1727
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f444"
+  },
+  "total_spent": 14401.46,
+  "avg_spent": 83.24543352601155,
+  "transaction_count": 173,
+  "client_id": 1241
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f445"
+  },
+  "total_spent": 14381.74,
+  "avg_spent": 74.13268041237113,
+  "transaction_count": 194,
+  "client_id": 1102
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f446"
+  },
+  "total_spent": 14027.039999999999,
+  "avg_spent": 89.34420382165605,
+  "transaction_count": 157,
+  "client_id": 1651
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f447"
+  },
+  "total_spent": 13780.12,
+  "avg_spent": 81.05952941176471,
+  "transaction_count": 170,
+  "client_id": 1877
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f448"
+  },
+  "total_spent": 13758.8,
+  "avg_spent": 76.86480446927374,
+  "transaction_count": 179,
+  "client_id": 1797
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f449"
+  },
+  "total_spent": 13716.11,
+  "avg_spent": 55.30689516129033,
+  "transaction_count": 248,
+  "client_id": 1595
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f44a"
+  },
+  "total_spent": 13639.86,
+  "avg_spent": 86.32822784810126,
+  "transaction_count": 158,
+  "client_id": 369
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f44b"
+  },
+  "total_spent": 13565.28,
+  "avg_spent": 48.97212996389892,
+  "transaction_count": 277,
+  "client_id": 1147
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f44c"
+  },
+  "total_spent": 13532.61,
+  "avg_spent": 50.87447368421053,
+  "transaction_count": 266,
+  "client_id": 598
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f44d"
+  },
+  "total_spent": 13348.78,
+  "avg_spent": 54.04364372469636,
+  "transaction_count": 247,
+  "client_id": 430
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f44e"
+  },
+  "total_spent": 13221.33,
+  "avg_spent": 77.31771929824562,
+  "transaction_count": 171,
+  "client_id": 733
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f44f"
+  },
+  "total_spent": 13206.64,
+  "avg_spent": 49.649022556390975,
+  "transaction_count": 266,
+  "client_id": 1451
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f450"
+  },
+  "total_spent": 13126.03,
+  "avg_spent": 100.19870229007634,
+  "transaction_count": 131,
+  "client_id": 696
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f451"
+  },
+  "total_spent": 13112.7,
+  "avg_spent": 70.12139037433155,
+  "transaction_count": 187,
+  "client_id": 425
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f452"
+  },
+  "total_spent": 13083.51,
+  "avg_spent": 132.15666666666667,
+  "transaction_count": 99,
+  "client_id": 776
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f453"
+  },
+  "total_spent": 12816.37,
+  "avg_spent": 108.61330508474578,
+  "transaction_count": 118,
+  "client_id": 1164
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f454"
+  },
+  "total_spent": 12715.51,
+  "avg_spent": 105.08685950413224,
+  "transaction_count": 121,
+  "client_id": 1052
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f455"
+  },
+  "total_spent": 12675.86,
+  "avg_spent": 87.41972413793104,
+  "transaction_count": 145,
+  "client_id": 1385
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f456"
+  },
+  "total_spent": 12654.52,
+  "avg_spent": 62.64613861386139,
+  "transaction_count": 202,
+  "client_id": 1811
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f457"
+  },
+  "total_spent": 12605.23,
+  "avg_spent": 71.620625,
+  "transaction_count": 176,
+  "client_id": 1081
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f458"
+  },
+  "total_spent": 12576.5,
+  "avg_spent": 103.0860655737705,
+  "transaction_count": 122,
+  "client_id": 985
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f459"
+  },
+  "total_spent": 12556.92,
+  "avg_spent": 47.744942965779465,
+  "transaction_count": 263,
+  "client_id": 511
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f45a"
+  },
+  "total_spent": 12504.55,
+  "avg_spent": 70.2502808988764,
+  "transaction_count": 178,
+  "client_id": 921
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f45b"
+  },
+  "total_spent": 12472.65,
+  "avg_spent": 83.70906040268456,
+  "transaction_count": 149,
+  "client_id": 1117
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f45c"
+  },
+  "total_spent": 12299.72,
+  "avg_spent": 96.0915625,
+  "transaction_count": 128,
+  "client_id": 1802
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f45d"
+  },
+  "total_spent": 12196.16,
+  "avg_spent": 59.49346341463414,
+  "transaction_count": 205,
+  "client_id": 1274
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f45e"
+  },
+  "total_spent": 12195.32,
+  "avg_spent": 56.19963133640553,
+  "transaction_count": 217,
+  "client_id": 408
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f45f"
+  },
+  "total_spent": 12184.69,
+  "avg_spent": 66.22114130434782,
+  "transaction_count": 184,
+  "client_id": 795
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f460"
+  },
+  "total_spent": 12074.23,
+  "avg_spent": 61.2905076142132,
+  "transaction_count": 197,
+  "client_id": 137
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f461"
+  },
+  "total_spent": 12063.86,
+  "avg_spent": 54.34171171171172,
+  "transaction_count": 222,
+  "client_id": 782
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f462"
+  },
+  "total_spent": 12027.54,
+  "avg_spent": 73.33865853658537,
+  "transaction_count": 164,
+  "client_id": 77
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f463"
+  },
+  "total_spent": 11888.85,
+  "avg_spent": 85.53129496402877,
+  "transaction_count": 139,
+  "client_id": 1908
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f464"
+  },
+  "total_spent": 11884.89,
+  "avg_spent": 51.899082969432314,
+  "transaction_count": 229,
+  "client_id": 190
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f465"
+  },
+  "total_spent": 11839.54,
+  "avg_spent": 110.64990654205609,
+  "transaction_count": 107,
+  "client_id": 944
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f466"
+  },
+  "total_spent": 11838.97,
+  "avg_spent": 50.81103004291845,
+  "transaction_count": 233,
+  "client_id": 1648
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f467"
+  },
+  "total_spent": 11714.06,
+  "avg_spent": 51.15310043668122,
+  "transaction_count": 229,
+  "client_id": 1885
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f468"
+  },
+  "total_spent": 11657.34,
+  "avg_spent": 74.72653846153847,
+  "transaction_count": 156,
+  "client_id": 702
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f469"
+  },
+  "total_spent": 11641.05,
+  "avg_spent": 89.54653846153846,
+  "transaction_count": 130,
+  "client_id": 1028
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f46a"
+  },
+  "total_spent": 11580.74,
+  "avg_spent": 69.34574850299401,
+  "transaction_count": 167,
+  "client_id": 1817
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f46b"
+  },
+  "total_spent": 11480.89,
+  "avg_spent": 36.21731861198738,
+  "transaction_count": 317,
+  "client_id": 1963
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f46c"
+  },
+  "total_spent": 11451.78,
+  "avg_spent": 59.6446875,
+  "transaction_count": 192,
+  "client_id": 476
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f46d"
+  },
+  "total_spent": 11387.23,
+  "avg_spent": 91.8325,
+  "transaction_count": 124,
+  "client_id": 1259
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f46e"
+  },
+  "total_spent": 11379.77,
+  "avg_spent": 70.68180124223603,
+  "transaction_count": 161,
+  "client_id": 763
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f46f"
+  },
+  "total_spent": 11351.74,
+  "avg_spent": 75.17708609271523,
+  "transaction_count": 151,
+  "client_id": 1989
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f470"
+  },
+  "total_spent": 11119.96,
+  "avg_spent": 51.72074418604651,
+  "transaction_count": 215,
+  "client_id": 275
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f471"
+  },
+  "total_spent": 11106.09,
+  "avg_spent": 52.1412676056338,
+  "transaction_count": 213,
+  "client_id": 1083
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f472"
+  },
+  "total_spent": 11008.23,
+  "avg_spent": 79.19589928057553,
+  "transaction_count": 139,
+  "client_id": 1812
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f473"
+  },
+  "total_spent": 10996.71,
+  "avg_spent": 77.44161971830985,
+  "transaction_count": 142,
+  "client_id": 278
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f474"
+  },
+  "total_spent": 10847.53,
+  "avg_spent": 50.927370892018786,
+  "transaction_count": 213,
+  "client_id": 1969
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f475"
+  },
+  "total_spent": 10812.34,
+  "avg_spent": 75.61076923076924,
+  "transaction_count": 143,
+  "client_id": 39
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f476"
+  },
+  "total_spent": 10773.6,
+  "avg_spent": 111.0680412371134,
+  "transaction_count": 97,
+  "client_id": 177
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f477"
+  },
+  "total_spent": 10695.83,
+  "avg_spent": 146.51821917808218,
+  "transaction_count": 73,
+  "client_id": 708
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f478"
+  },
+  "total_spent": 10679.02,
+  "avg_spent": 48.32135746606335,
+  "transaction_count": 221,
+  "client_id": 474
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f479"
+  },
+  "total_spent": 10660.73,
+  "avg_spent": 70.13638157894736,
+  "transaction_count": 152,
+  "client_id": 1053
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f47a"
+  },
+  "total_spent": 10644.43,
+  "avg_spent": 70.96286666666667,
+  "transaction_count": 150,
+  "client_id": 711
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f47b"
+  },
+  "total_spent": 10601.69,
+  "avg_spent": 44.544915966386554,
+  "transaction_count": 238,
+  "client_id": 954
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f47c"
+  },
+  "total_spent": 10561.5,
+  "avg_spent": 58.675,
+  "transaction_count": 180,
+  "client_id": 961
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f47d"
+  },
+  "total_spent": 10516.2,
+  "avg_spent": 41.897211155378486,
+  "transaction_count": 251,
+  "client_id": 461
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f47e"
+  },
+  "total_spent": 10500.79,
+  "avg_spent": 205.8978431372549,
+  "transaction_count": 51,
+  "client_id": 1223
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f47f"
+  },
+  "total_spent": 10461.2,
+  "avg_spent": 48.65674418604652,
+  "transaction_count": 215,
+  "client_id": 112
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f480"
+  },
+  "total_spent": 10320.34,
+  "avg_spent": 49.379617224880384,
+  "transaction_count": 209,
+  "client_id": 1224
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f481"
+  },
+  "total_spent": 10286.72,
+  "avg_spent": 53.29906735751295,
+  "transaction_count": 193,
+  "client_id": 472
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f482"
+  },
+  "total_spent": 10229.39,
+  "avg_spent": 51.14695,
+  "transaction_count": 200,
+  "client_id": 1209
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f483"
+  },
+  "total_spent": 10228.64,
+  "avg_spent": 72.03267605633802,
+  "transaction_count": 142,
+  "client_id": 1662
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f484"
+  },
+  "total_spent": 10166.93,
+  "avg_spent": 75.3105925925926,
+  "transaction_count": 135,
+  "client_id": 597
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f485"
+  },
+  "total_spent": 10163.09,
+  "avg_spent": 139.22041095890413,
+  "transaction_count": 73,
+  "client_id": 549
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f486"
+  },
+  "total_spent": 10160.75,
+  "avg_spent": 87.59267241379311,
+  "transaction_count": 116,
+  "client_id": 1116
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f487"
+  },
+  "total_spent": 10145.7,
+  "avg_spent": 128.42658227848102,
+  "transaction_count": 79,
+  "client_id": 1201
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f488"
+  },
+  "total_spent": 10116.380000000001,
+  "avg_spent": 72.77971223021584,
+  "transaction_count": 139,
+  "client_id": 150
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f489"
+  },
+  "total_spent": 10108.12,
+  "avg_spent": 78.9696875,
+  "transaction_count": 128,
+  "client_id": 825
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f48a"
+  },
+  "total_spent": 10056.45,
+  "avg_spent": 41.5555785123967,
+  "transaction_count": 242,
+  "client_id": 846
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f48b"
+  },
+  "total_spent": 10048.38,
+  "avg_spent": 70.76323943661971,
+  "transaction_count": 142,
+  "client_id": 1917
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f48c"
+  },
+  "total_spent": 10040.9,
+  "avg_spent": 62.755624999999995,
+  "transaction_count": 160,
+  "client_id": 1130
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f48d"
+  },
+  "total_spent": 10018.66,
+  "avg_spent": 88.66070796460177,
+  "transaction_count": 113,
+  "client_id": 1100
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f48e"
+  },
+  "total_spent": 10011.67,
+  "avg_spent": 56.884488636363635,
+  "transaction_count": 176,
+  "client_id": 1129
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f48f"
+  },
+  "total_spent": 9963.85,
+  "avg_spent": 82.34586776859504,
+  "transaction_count": 121,
+  "client_id": 1694
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f490"
+  },
+  "total_spent": 9963.52,
+  "avg_spent": 57.592601156069364,
+  "transaction_count": 173,
+  "client_id": 1818
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f491"
+  },
+  "total_spent": 9923.53,
+  "avg_spent": 49.86698492462312,
+  "transaction_count": 199,
+  "client_id": 1484
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f492"
+  },
+  "total_spent": 9847.58,
+  "avg_spent": 88.71693693693693,
+  "transaction_count": 111,
+  "client_id": 487
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f493"
+  },
+  "total_spent": 9826.59,
+  "avg_spent": 72.25433823529411,
+  "transaction_count": 136,
+  "client_id": 1495
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f494"
+  },
+  "total_spent": 9795.17,
+  "avg_spent": 93.28733333333334,
+  "transaction_count": 105,
+  "client_id": 1444
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f495"
+  },
+  "total_spent": 9783.22,
+  "avg_spent": 56.22540229885057,
+  "transaction_count": 174,
+  "client_id": 154
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f496"
+  },
+  "total_spent": 9750.86,
+  "avg_spent": 49.74928571428572,
+  "transaction_count": 196,
+  "client_id": 779
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f497"
+  },
+  "total_spent": 9739.48,
+  "avg_spent": 53.51362637362637,
+  "transaction_count": 182,
+  "client_id": 1920
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f498"
+  },
+  "total_spent": 9640.96,
+  "avg_spent": 105.94461538461537,
+  "transaction_count": 91,
+  "client_id": 414
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f499"
+  },
+  "total_spent": 9628.45,
+  "avg_spent": 57.312202380952385,
+  "transaction_count": 168,
+  "client_id": 1398
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f49a"
+  },
+  "total_spent": 9551.64,
+  "avg_spent": 50.008586387434555,
+  "transaction_count": 191,
+  "client_id": 860
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f49b"
+  },
+  "total_spent": 9506.62,
+  "avg_spent": 74.85527559055119,
+  "transaction_count": 127,
+  "client_id": 53
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f49c"
+  },
+  "total_spent": 9478.03,
+  "avg_spent": 61.94790849673203,
+  "transaction_count": 153,
+  "client_id": 1915
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f49d"
+  },
+  "total_spent": 9468.78,
+  "avg_spent": 98.633125,
+  "transaction_count": 96,
+  "client_id": 1957
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f49e"
+  },
+  "total_spent": 9454.71,
+  "avg_spent": 80.12466101694915,
+  "transaction_count": 118,
+  "client_id": 127
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f49f"
+  },
+  "total_spent": 9450.24,
+  "avg_spent": 47.4886432160804,
+  "transaction_count": 199,
+  "client_id": 1314
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a0"
+  },
+  "total_spent": 9439.55,
+  "avg_spent": 62.102302631578944,
+  "transaction_count": 152,
+  "client_id": 363
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a1"
+  },
+  "total_spent": 9437.380000000001,
+  "avg_spent": 80.66136752136752,
+  "transaction_count": 117,
+  "client_id": 1435
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a2"
+  },
+  "total_spent": 9403.83,
+  "avg_spent": 47.73517766497462,
+  "transaction_count": 197,
+  "client_id": 1703
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a3"
+  },
+  "total_spent": 9395.86,
+  "avg_spent": 57.643312883435584,
+  "transaction_count": 163,
+  "client_id": 1104
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a4"
+  },
+  "total_spent": 9392.34,
+  "avg_spent": 121.97844155844156,
+  "transaction_count": 77,
+  "client_id": 73
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a5"
+  },
+  "total_spent": 9382.38,
+  "avg_spent": 66.0730985915493,
+  "transaction_count": 142,
+  "client_id": 1456
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a6"
+  },
+  "total_spent": 9380.34,
+  "avg_spent": 70.52887218045113,
+  "transaction_count": 133,
+  "client_id": 1750
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a7"
+  },
+  "total_spent": 9343.29,
+  "avg_spent": 59.134746835443046,
+  "transaction_count": 158,
+  "client_id": 1699
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a8"
+  },
+  "total_spent": 9327.59,
+  "avg_spent": 131.37450704225353,
+  "transaction_count": 71,
+  "client_id": 752
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4a9"
+  },
+  "total_spent": 9318.26,
+  "avg_spent": 62.961216216216215,
+  "transaction_count": 148,
+  "client_id": 1411
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4aa"
+  },
+  "total_spent": 9300.93,
+  "avg_spent": 58.130812500000005,
+  "transaction_count": 160,
+  "client_id": 1105
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ab"
+  },
+  "total_spent": 9285.26,
+  "avg_spent": 73.69253968253969,
+  "transaction_count": 126,
+  "client_id": 552
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ac"
+  },
+  "total_spent": 9274.02,
+  "avg_spent": 70.79404580152672,
+  "transaction_count": 131,
+  "client_id": 1551
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ad"
+  },
+  "total_spent": 9260.19,
+  "avg_spent": 76.5304958677686,
+  "transaction_count": 121,
+  "client_id": 362
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ae"
+  },
+  "total_spent": 9195.34,
+  "avg_spent": 66.15352517985612,
+  "transaction_count": 139,
+  "client_id": 1897
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4af"
+  },
+  "total_spent": 9189.34,
+  "avg_spent": 64.71366197183099,
+  "transaction_count": 142,
+  "client_id": 984
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b0"
+  },
+  "total_spent": 9147.07,
+  "avg_spent": 46.43182741116751,
+  "transaction_count": 197,
+  "client_id": 996
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b1"
+  },
+  "total_spent": 9139.63,
+  "avg_spent": 56.41746913580246,
+  "transaction_count": 162,
+  "client_id": 142
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b2"
+  },
+  "total_spent": 9124.8,
+  "avg_spent": 46.08484848484848,
+  "transaction_count": 198,
+  "client_id": 1096
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b3"
+  },
+  "total_spent": 9122.68,
+  "avg_spent": 37.69702479338843,
+  "transaction_count": 242,
+  "client_id": 1144
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b4"
+  },
+  "total_spent": 9119.37,
+  "avg_spent": 58.4575,
+  "transaction_count": 156,
+  "client_id": 847
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b5"
+  },
+  "total_spent": 9115.34,
+  "avg_spent": 55.24448484848485,
+  "transaction_count": 165,
+  "client_id": 1155
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b6"
+  },
+  "total_spent": 9095.91,
+  "avg_spent": 46.40770408163265,
+  "transaction_count": 196,
+  "client_id": 1018
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b7"
+  },
+  "total_spent": 9094.53,
+  "avg_spent": 57.56031645569621,
+  "transaction_count": 158,
+  "client_id": 1115
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b8"
+  },
+  "total_spent": 9084.1,
+  "avg_spent": 72.09603174603176,
+  "transaction_count": 126,
+  "client_id": 811
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4b9"
+  },
+  "total_spent": 9072.03,
+  "avg_spent": 43.20014285714286,
+  "transaction_count": 210,
+  "client_id": 852
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ba"
+  },
+  "total_spent": 9071.22,
+  "avg_spent": 60.88067114093959,
+  "transaction_count": 149,
+  "client_id": 1034
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4bb"
+  },
+  "total_spent": 9069.12,
+  "avg_spent": 35.015907335907336,
+  "transaction_count": 259,
+  "client_id": 997
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4bc"
+  },
+  "total_spent": 9037.539999999999,
+  "avg_spent": 78.58730434782608,
+  "transaction_count": 115,
+  "client_id": 377
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4bd"
+  },
+  "total_spent": 9034,
+  "avg_spent": 63.61971830985915,
+  "transaction_count": 142,
+  "client_id": 1543
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4be"
+  },
+  "total_spent": 9023.34,
+  "avg_spent": 39.062077922077926,
+  "transaction_count": 231,
+  "client_id": 1843
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4bf"
+  },
+  "total_spent": 9019.96,
+  "avg_spent": 40.63045045045045,
+  "transaction_count": 222,
+  "client_id": 373
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c0"
+  },
+  "total_spent": 9010.63,
+  "avg_spent": 75.71957983193276,
+  "transaction_count": 119,
+  "client_id": 350
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c1"
+  },
+  "total_spent": 8988.82,
+  "avg_spent": 38.91264069264069,
+  "transaction_count": 231,
+  "client_id": 1295
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c2"
+  },
+  "total_spent": 8975.94,
+  "avg_spent": 76.06728813559323,
+  "transaction_count": 118,
+  "client_id": 865
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c3"
+  },
+  "total_spent": 8952.19,
+  "avg_spent": 58.1311038961039,
+  "transaction_count": 154,
+  "client_id": 1520
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c4"
+  },
+  "total_spent": 8931.92,
+  "avg_spent": 46.76397905759163,
+  "transaction_count": 191,
+  "client_id": 705
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c5"
+  },
+  "total_spent": 8927.29,
+  "avg_spent": 44.19450495049505,
+  "transaction_count": 202,
+  "client_id": 1382
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c6"
+  },
+  "total_spent": 8911.03,
+  "avg_spent": 54.00624242424243,
+  "transaction_count": 165,
+  "client_id": 947
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c7"
+  },
+  "total_spent": 8844.58,
+  "avg_spent": 43.14429268292683,
+  "transaction_count": 205,
+  "client_id": 1463
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c8"
+  },
+  "total_spent": 8834.93,
+  "avg_spent": 55.56559748427673,
+  "transaction_count": 159,
+  "client_id": 1962
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4c9"
+  },
+  "total_spent": 8824.34,
+  "avg_spent": 46.443894736842104,
+  "transaction_count": 190,
+  "client_id": 1150
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ca"
+  },
+  "total_spent": 8823.24,
+  "avg_spent": 52.83377245508982,
+  "transaction_count": 167,
+  "client_id": 976
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4cb"
+  },
+  "total_spent": 8769.38,
+  "avg_spent": 65.4431343283582,
+  "transaction_count": 134,
+  "client_id": 719
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4cc"
+  },
+  "total_spent": 8747.19,
+  "avg_spent": 49.98394285714286,
+  "transaction_count": 175,
+  "client_id": 810
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4cd"
+  },
+  "total_spent": 8713.58,
+  "avg_spent": 51.25635294117647,
+  "transaction_count": 170,
+  "client_id": 858
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ce"
+  },
+  "total_spent": 8709.48,
+  "avg_spent": 66.996,
+  "transaction_count": 130,
+  "client_id": 1294
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4cf"
+  },
+  "total_spent": 8698.98,
+  "avg_spent": 65.90136363636363,
+  "transaction_count": 132,
+  "client_id": 1534
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d0"
+  },
+  "total_spent": 8693.96,
+  "avg_spent": 60.79692307692307,
+  "transaction_count": 143,
+  "client_id": 37
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d1"
+  },
+  "total_spent": 8665.73,
+  "avg_spent": 56.27097402597402,
+  "transaction_count": 154,
+  "client_id": 1901
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d2"
+  },
+  "total_spent": 8621.52,
+  "avg_spent": 83.70407766990292,
+  "transaction_count": 103,
+  "client_id": 1720
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d3"
+  },
+  "total_spent": 8579.34,
+  "avg_spent": 41.44608695652174,
+  "transaction_count": 207,
+  "client_id": 1407
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d4"
+  },
+  "total_spent": 8575.82,
+  "avg_spent": 65.96784615384615,
+  "transaction_count": 130,
+  "client_id": 972
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d5"
+  },
+  "total_spent": 8559.15,
+  "avg_spent": 48.356779661016944,
+  "transaction_count": 177,
+  "client_id": 17
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d6"
+  },
+  "total_spent": 8551.52,
+  "avg_spent": 79.18074074074075,
+  "transaction_count": 108,
+  "client_id": 1243
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d7"
+  },
+  "total_spent": 8507.63,
+  "avg_spent": 69.73467213114753,
+  "transaction_count": 122,
+  "client_id": 1621
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d8"
+  },
+  "total_spent": 8445.98,
+  "avg_spent": 78.93439252336448,
+  "transaction_count": 107,
+  "client_id": 61
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4d9"
+  },
+  "total_spent": 8403.19,
+  "avg_spent": 42.44035353535354,
+  "transaction_count": 198,
+  "client_id": 356
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4da"
+  },
+  "total_spent": 8393.08,
+  "avg_spent": 74.2750442477876,
+  "transaction_count": 113,
+  "client_id": 615
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4db"
+  },
+  "total_spent": 8390.79,
+  "avg_spent": 37.967375565610865,
+  "transaction_count": 221,
+  "client_id": 1966
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4dc"
+  },
+  "total_spent": 8389.11,
+  "avg_spent": 35.54707627118644,
+  "transaction_count": 236,
+  "client_id": 1459
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4dd"
+  },
+  "total_spent": 8373.58,
+  "avg_spent": 52.9973417721519,
+  "transaction_count": 158,
+  "client_id": 1166
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4de"
+  },
+  "total_spent": 8349.75,
+  "avg_spent": 53.52403846153846,
+  "transaction_count": 156,
+  "client_id": 1046
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4df"
+  },
+  "total_spent": 8317.96,
+  "avg_spent": 77.73794392523364,
+  "transaction_count": 107,
+  "client_id": 316
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e0"
+  },
+  "total_spent": 8294.63,
+  "avg_spent": 43.88693121693121,
+  "transaction_count": 189,
+  "client_id": 1063
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e1"
+  },
+  "total_spent": 8290.39,
+  "avg_spent": 74.6881981981982,
+  "transaction_count": 111,
+  "client_id": 1041
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e2"
+  },
+  "total_spent": 8236.82,
+  "avg_spent": 88.5679569892473,
+  "transaction_count": 93,
+  "client_id": 1283
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e3"
+  },
+  "total_spent": 8235.8,
+  "avg_spent": 52.45732484076433,
+  "transaction_count": 157,
+  "client_id": 554
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e4"
+  },
+  "total_spent": 8231.37,
+  "avg_spent": 52.76519230769231,
+  "transaction_count": 156,
+  "client_id": 1079
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e5"
+  },
+  "total_spent": 8228.9,
+  "avg_spent": 42.417010309278346,
+  "transaction_count": 194,
+  "client_id": 1736
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e6"
+  },
+  "total_spent": 8200.36,
+  "avg_spent": 39.04933333333334,
+  "transaction_count": 210,
+  "client_id": 252
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e7"
+  },
+  "total_spent": 8146.76,
+  "avg_spent": 64.14771653543308,
+  "transaction_count": 127,
+  "client_id": 1412
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e8"
+  },
+  "total_spent": 8146.03,
+  "avg_spent": 79.86303921568627,
+  "transaction_count": 102,
+  "client_id": 802
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4e9"
+  },
+  "total_spent": 8139.49,
+  "avg_spent": 73.99536363636363,
+  "transaction_count": 110,
+  "client_id": 1324
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ea"
+  },
+  "total_spent": 8128.31,
+  "avg_spent": 38.16107981220657,
+  "transaction_count": 213,
+  "client_id": 98
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4eb"
+  },
+  "total_spent": 8114.1,
+  "avg_spent": 53.03333333333334,
+  "transaction_count": 153,
+  "client_id": 550
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ec"
+  },
+  "total_spent": 8108.39,
+  "avg_spent": 89.10318681318682,
+  "transaction_count": 91,
+  "client_id": 457
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ed"
+  },
+  "total_spent": 8084.37,
+  "avg_spent": 62.66953488372093,
+  "transaction_count": 129,
+  "client_id": 1872
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ee"
+  },
+  "total_spent": 8034.97,
+  "avg_spent": 38.44483253588517,
+  "transaction_count": 209,
+  "client_id": 1941
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ef"
+  },
+  "total_spent": 8012.41,
+  "avg_spent": 40.06205,
+  "transaction_count": 200,
+  "client_id": 1904
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f0"
+  },
+  "total_spent": 8005.5199999999995,
+  "avg_spent": 46.54372093023255,
+  "transaction_count": 172,
+  "client_id": 571
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f1"
+  },
+  "total_spent": 7995.22,
+  "avg_spent": 106.60293333333334,
+  "transaction_count": 75,
+  "client_id": 1276
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f2"
+  },
+  "total_spent": 7987.69,
+  "avg_spent": 42.040473684210525,
+  "transaction_count": 190,
+  "client_id": 376
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f3"
+  },
+  "total_spent": 7971.29,
+  "avg_spent": 53.141933333333334,
+  "transaction_count": 150,
+  "client_id": 557
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f4"
+  },
+  "total_spent": 7965.05,
+  "avg_spent": 45.77614942528736,
+  "transaction_count": 174,
+  "client_id": 566
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f5"
+  },
+  "total_spent": 7962.78,
+  "avg_spent": 56.876999999999995,
+  "transaction_count": 140,
+  "client_id": 1787
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f6"
+  },
+  "total_spent": 7959.49,
+  "avg_spent": 50.69738853503185,
+  "transaction_count": 157,
+  "client_id": 34
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f7"
+  },
+  "total_spent": 7939.15,
+  "avg_spent": 91.25459770114942,
+  "transaction_count": 87,
+  "client_id": 1976
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f8"
+  },
+  "total_spent": 7932.99,
+  "avg_spent": 67.80333333333333,
+  "transaction_count": 117,
+  "client_id": 1176
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4f9"
+  },
+  "total_spent": 7930.83,
+  "avg_spent": 50.19512658227848,
+  "transaction_count": 158,
+  "client_id": 1391
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4fa"
+  },
+  "total_spent": 7901.84,
+  "avg_spent": 72.49394495412844,
+  "transaction_count": 109,
+  "client_id": 1668
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4fb"
+  },
+  "total_spent": 7900.67,
+  "avg_spent": 48.17481707317073,
+  "transaction_count": 164,
+  "client_id": 1433
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4fc"
+  },
+  "total_spent": 7896.68,
+  "avg_spent": 85.83347826086957,
+  "transaction_count": 92,
+  "client_id": 629
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4fd"
+  },
+  "total_spent": 7889.87,
+  "avg_spent": 42.64794594594594,
+  "transaction_count": 185,
+  "client_id": 1852
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4fe"
+  },
+  "total_spent": 7887.36,
+  "avg_spent": 65.18479338842975,
+  "transaction_count": 121,
+  "client_id": 1513
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f4ff"
+  },
+  "total_spent": 7886.04,
+  "avg_spent": 61.6096875,
+  "transaction_count": 128,
+  "client_id": 1813
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f500"
+  },
+  "total_spent": 7883.53,
+  "avg_spent": 42.84527173913043,
+  "transaction_count": 184,
+  "client_id": 737
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f501"
+  },
+  "total_spent": 7877.07,
+  "avg_spent": 46.60988165680473,
+  "transaction_count": 169,
+  "client_id": 1842
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f502"
+  },
+  "total_spent": 7869.7699999999995,
+  "avg_spent": 35.44941441441441,
+  "transaction_count": 222,
+  "client_id": 1659
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f503"
+  },
+  "total_spent": 7858.84,
+  "avg_spent": 60.92124031007752,
+  "transaction_count": 129,
+  "client_id": 1857
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f504"
+  },
+  "total_spent": 7852.94,
+  "avg_spent": 52.00622516556291,
+  "transaction_count": 151,
+  "client_id": 1687
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f505"
+  },
+  "total_spent": 7848.7300000000005,
+  "avg_spent": 115.42250000000001,
+  "transaction_count": 68,
+  "client_id": 1959
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f506"
+  },
+  "total_spent": 7822.39,
+  "avg_spent": 35.88252293577982,
+  "transaction_count": 218,
+  "client_id": 641
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f507"
+  },
+  "total_spent": 7819.45,
+  "avg_spent": 52.83412162162162,
+  "transaction_count": 148,
+  "client_id": 914
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f508"
+  },
+  "total_spent": 7815.03,
+  "avg_spent": 58.75962406015037,
+  "transaction_count": 133,
+  "client_id": 364
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f509"
+  },
+  "total_spent": 7797.47,
+  "avg_spent": 72.87355140186916,
+  "transaction_count": 107,
+  "client_id": 1827
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f50a"
+  },
+  "total_spent": 7765.15,
+  "avg_spent": 53.18595890410958,
+  "transaction_count": 146,
+  "client_id": 1777
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f50b"
+  },
+  "total_spent": 7743.89,
+  "avg_spent": 67.33817391304348,
+  "transaction_count": 115,
+  "client_id": 261
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f50c"
+  },
+  "total_spent": 7721.66,
+  "avg_spent": 48.87126582278481,
+  "transaction_count": 158,
+  "client_id": 506
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f50d"
+  },
+  "total_spent": 7714.38,
+  "avg_spent": 88.67103448275863,
+  "transaction_count": 87,
+  "client_id": 677
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f50e"
+  },
+  "total_spent": 7706.4,
+  "avg_spent": 77.064,
+  "transaction_count": 100,
+  "client_id": 1626
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f50f"
+  },
+  "total_spent": 7692.54,
+  "avg_spent": 80.130625,
+  "transaction_count": 96,
+  "client_id": 738
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f510"
+  },
+  "total_spent": 7657.98,
+  "avg_spent": 71.56990654205607,
+  "transaction_count": 107,
+  "client_id": 1207
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f511"
+  },
+  "total_spent": 7634.87,
+  "avg_spent": 28.59501872659176,
+  "transaction_count": 267,
+  "client_id": 1453
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f512"
+  },
+  "total_spent": 7625.59,
+  "avg_spent": 84.72877777777778,
+  "transaction_count": 90,
+  "client_id": 115
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f513"
+  },
+  "total_spent": 7600.67,
+  "avg_spent": 50.67113333333334,
+  "transaction_count": 150,
+  "client_id": 565
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f514"
+  },
+  "total_spent": 7586.16,
+  "avg_spent": 47.71169811320755,
+  "transaction_count": 159,
+  "client_id": 754
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f515"
+  },
+  "total_spent": 7574.61,
+  "avg_spent": 35.3953738317757,
+  "transaction_count": 214,
+  "client_id": 502
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f516"
+  },
+  "total_spent": 7555.6900000000005,
+  "avg_spent": 74.07539215686275,
+  "transaction_count": 102,
+  "client_id": 494
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f517"
+  },
+  "total_spent": 7528.64,
+  "avg_spent": 36.37024154589372,
+  "transaction_count": 207,
+  "client_id": 1529
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f518"
+  },
+  "total_spent": 7518.37,
+  "avg_spent": 59.19976377952756,
+  "transaction_count": 127,
+  "client_id": 1903
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f519"
+  },
+  "total_spent": 7510.6,
+  "avg_spent": 46.64968944099379,
+  "transaction_count": 161,
+  "client_id": 820
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f51a"
+  },
+  "total_spent": 7494.59,
+  "avg_spent": 42.34231638418079,
+  "transaction_count": 177,
+  "client_id": 1752
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f51b"
+  },
+  "total_spent": 7494.19,
+  "avg_spent": 44.08347058823529,
+  "transaction_count": 170,
+  "client_id": 1576
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f51c"
+  },
+  "total_spent": 7485.08,
+  "avg_spent": 59.88064,
+  "transaction_count": 125,
+  "client_id": 1596
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f51d"
+  },
+  "total_spent": 7461.32,
+  "avg_spent": 58.75055118110236,
+  "transaction_count": 127,
+  "client_id": 68
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f51e"
+  },
+  "total_spent": 7438.16,
+  "avg_spent": 44.01278106508876,
+  "transaction_count": 169,
+  "client_id": 884
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f51f"
+  },
+  "total_spent": 7411.88,
+  "avg_spent": 43.59929411764706,
+  "transaction_count": 170,
+  "client_id": 1809
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f520"
+  },
+  "total_spent": 7391.72,
+  "avg_spent": 51.69034965034965,
+  "transaction_count": 143,
+  "client_id": 428
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f521"
+  },
+  "total_spent": 7365.24,
+  "avg_spent": 48.138823529411766,
+  "transaction_count": 153,
+  "client_id": 932
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f522"
+  },
+  "total_spent": 7353.99,
+  "avg_spent": 42.755755813953485,
+  "transaction_count": 172,
+  "client_id": 987
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f523"
+  },
+  "total_spent": 7352.3,
+  "avg_spent": 74.26565656565657,
+  "transaction_count": 99,
+  "client_id": 563
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f524"
+  },
+  "total_spent": 7352.04,
+  "avg_spent": 44.024191616766466,
+  "transaction_count": 167,
+  "client_id": 442
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f525"
+  },
+  "total_spent": 7350.43,
+  "avg_spent": 80.77395604395605,
+  "transaction_count": 91,
+  "client_id": 1986
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f526"
+  },
+  "total_spent": 7339.67,
+  "avg_spent": 79.77902173913044,
+  "transaction_count": 92,
+  "client_id": 450
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f527"
+  },
+  "total_spent": 7337.71,
+  "avg_spent": 42.91058479532164,
+  "transaction_count": 171,
+  "client_id": 872
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f528"
+  },
+  "total_spent": 7334.84,
+  "avg_spent": 41.20696629213483,
+  "transaction_count": 178,
+  "client_id": 1067
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f529"
+  },
+  "total_spent": 7328.41,
+  "avg_spent": 70.46548076923077,
+  "transaction_count": 104,
+  "client_id": 1498
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f52a"
+  },
+  "total_spent": 7322.59,
+  "avg_spent": 114.41546875,
+  "transaction_count": 64,
+  "client_id": 1156
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f52b"
+  },
+  "total_spent": 7313.68,
+  "avg_spent": 91.421,
+  "transaction_count": 80,
+  "client_id": 751
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f52c"
+  },
+  "total_spent": 7312.43,
+  "avg_spent": 82.16213483146068,
+  "transaction_count": 89,
+  "client_id": 162
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f52d"
+  },
+  "total_spent": 7306.9400000000005,
+  "avg_spent": 43.75413173652695,
+  "transaction_count": 167,
+  "client_id": 4
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f52e"
+  },
+  "total_spent": 7303.94,
+  "avg_spent": 38.645185185185184,
+  "transaction_count": 189,
+  "client_id": 1039
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f52f"
+  },
+  "total_spent": 7251.92,
+  "avg_spent": 68.4143396226415,
+  "transaction_count": 106,
+  "client_id": 1464
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f530"
+  },
+  "total_spent": 7231.91,
+  "avg_spent": 118.55590163934426,
+  "transaction_count": 61,
+  "client_id": 1086
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f531"
+  },
+  "total_spent": 7225.14,
+  "avg_spent": 74.4859793814433,
+  "transaction_count": 97,
+  "client_id": 335
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f532"
+  },
+  "total_spent": 7214.17,
+  "avg_spent": 65.58336363636364,
+  "transaction_count": 110,
+  "client_id": 1285
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f533"
+  },
+  "total_spent": 7191.97,
+  "avg_spent": 54.48462121212121,
+  "transaction_count": 132,
+  "client_id": 1789
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f534"
+  },
+  "total_spent": 7191.77,
+  "avg_spent": 63.085701754385966,
+  "transaction_count": 114,
+  "client_id": 1622
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f535"
+  },
+  "total_spent": 7185.25,
+  "avg_spent": 66.5300925925926,
+  "transaction_count": 108,
+  "client_id": 1330
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f536"
+  },
+  "total_spent": 7184.39,
+  "avg_spent": 66.52212962962963,
+  "transaction_count": 108,
+  "client_id": 1078
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f537"
+  },
+  "total_spent": 7150.67,
+  "avg_spent": 38.03547872340425,
+  "transaction_count": 188,
+  "client_id": 1759
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f538"
+  },
+  "total_spent": 7122.2300000000005,
+  "avg_spent": 93.71355263157895,
+  "transaction_count": 76,
+  "client_id": 1171
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f539"
+  },
+  "total_spent": 7103.88,
+  "avg_spent": 69.64588235294117,
+  "transaction_count": 102,
+  "client_id": 764
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f53a"
+  },
+  "total_spent": 7083.14,
+  "avg_spent": 63.24232142857143,
+  "transaction_count": 112,
+  "client_id": 199
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f53b"
+  },
+  "total_spent": 7064.19,
+  "avg_spent": 61.96657894736842,
+  "transaction_count": 114,
+  "client_id": 1605
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f53c"
+  },
+  "total_spent": 7061.39,
+  "avg_spent": 45.853181818181824,
+  "transaction_count": 154,
+  "client_id": 1084
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f53d"
+  },
+  "total_spent": 7048.84,
+  "avg_spent": 50.34885714285714,
+  "transaction_count": 140,
+  "client_id": 386
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f53e"
+  },
+  "total_spent": 7030.71,
+  "avg_spent": 59.08159663865546,
+  "transaction_count": 119,
+  "client_id": 60
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f53f"
+  },
+  "total_spent": 7025.5,
+  "avg_spent": 75.54301075268818,
+  "transaction_count": 93,
+  "client_id": 1675
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f540"
+  },
+  "total_spent": 6996.74,
+  "avg_spent": 48.58847222222222,
+  "transaction_count": 144,
+  "client_id": 1269
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f541"
+  },
+  "total_spent": 6962.43,
+  "avg_spent": 49.37893617021277,
+  "transaction_count": 141,
+  "client_id": 663
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f542"
+  },
+  "total_spent": 6961.91,
+  "avg_spent": 65.67839622641509,
+  "transaction_count": 106,
+  "client_id": 1517
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f543"
+  },
+  "total_spent": 6952.31,
+  "avg_spent": 39.05792134831461,
+  "transaction_count": 178,
+  "client_id": 1772
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f544"
+  },
+  "total_spent": 6922.81,
+  "avg_spent": 77.78438202247192,
+  "transaction_count": 89,
+  "client_id": 152
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f545"
+  },
+  "total_spent": 6919.59,
+  "avg_spent": 45.22607843137255,
+  "transaction_count": 153,
+  "client_id": 556
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f546"
+  },
+  "total_spent": 6906.87,
+  "avg_spent": 42.635,
+  "transaction_count": 162,
+  "client_id": 419
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f547"
+  },
+  "total_spent": 6898.64,
+  "avg_spent": 123.19000000000001,
+  "transaction_count": 56,
+  "client_id": 1695
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f548"
+  },
+  "total_spent": 6881.63,
+  "avg_spent": 59.32439655172414,
+  "transaction_count": 116,
+  "client_id": 757
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f549"
+  },
+  "total_spent": 6879.62,
+  "avg_spent": 58.30186440677966,
+  "transaction_count": 118,
+  "client_id": 942
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f54a"
+  },
+  "total_spent": 6877.89,
+  "avg_spent": 28.898697478991597,
+  "transaction_count": 238,
+  "client_id": 1604
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f54b"
+  },
+  "total_spent": 6869.16,
+  "avg_spent": 70.0934693877551,
+  "transaction_count": 98,
+  "client_id": 90
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f54c"
+  },
+  "total_spent": 6863.71,
+  "avg_spent": 37.71269230769231,
+  "transaction_count": 182,
+  "client_id": 1379
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f54d"
+  },
+  "total_spent": 6861.04,
+  "avg_spent": 49.00742857142857,
+  "transaction_count": 140,
+  "client_id": 1381
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f54e"
+  },
+  "total_spent": 6858.45,
+  "avg_spent": 61.787837837837834,
+  "transaction_count": 111,
+  "client_id": 1022
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f54f"
+  },
+  "total_spent": 6832.26,
+  "avg_spent": 56.46495867768595,
+  "transaction_count": 121,
+  "client_id": 1937
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f550"
+  },
+  "total_spent": 6818.15,
+  "avg_spent": 30.168805309734513,
+  "transaction_count": 226,
+  "client_id": 1475
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f551"
+  },
+  "total_spent": 6799.87,
+  "avg_spent": 51.90740458015267,
+  "transaction_count": 131,
+  "client_id": 157
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f552"
+  },
+  "total_spent": 6789.21,
+  "avg_spent": 42.9696835443038,
+  "transaction_count": 158,
+  "client_id": 176
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f553"
+  },
+  "total_spent": 6787.02,
+  "avg_spent": 55.63131147540984,
+  "transaction_count": 122,
+  "client_id": 868
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f554"
+  },
+  "total_spent": 6778.9800000000005,
+  "avg_spent": 71.35768421052632,
+  "transaction_count": 95,
+  "client_id": 64
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f555"
+  },
+  "total_spent": 6761.22,
+  "avg_spent": 56.3435,
+  "transaction_count": 120,
+  "client_id": 1302
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f556"
+  },
+  "total_spent": 6760.92,
+  "avg_spent": 59.83115044247788,
+  "transaction_count": 113,
+  "client_id": 1586
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f557"
+  },
+  "total_spent": 6719.15,
+  "avg_spent": 55.992916666666666,
+  "transaction_count": 120,
+  "client_id": 866
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f558"
+  },
+  "total_spent": 6716.76,
+  "avg_spent": 53.73408,
+  "transaction_count": 125,
+  "client_id": 1997
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f559"
+  },
+  "total_spent": 6713.09,
+  "avg_spent": 30.793990825688073,
+  "transaction_count": 218,
+  "client_id": 421
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f55a"
+  },
+  "total_spent": 6702.4,
+  "avg_spent": 77.93488372093023,
+  "transaction_count": 86,
+  "client_id": 1567
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f55b"
+  },
+  "total_spent": 6699.38,
+  "avg_spent": 101.50575757575757,
+  "transaction_count": 66,
+  "client_id": 246
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f55c"
+  },
+  "total_spent": 6695,
+  "avg_spent": 51.10687022900763,
+  "transaction_count": 131,
+  "client_id": 1983
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f55d"
+  },
+  "total_spent": 6681.87,
+  "avg_spent": 39.77303571428571,
+  "transaction_count": 168,
+  "client_id": 1638
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f55e"
+  },
+  "total_spent": 6681.53,
+  "avg_spent": 76.79919540229885,
+  "transaction_count": 87,
+  "client_id": 1823
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f55f"
+  },
+  "total_spent": 6667.41,
+  "avg_spent": 37.66898305084746,
+  "transaction_count": 177,
+  "client_id": 1313
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f560"
+  },
+  "total_spent": 6659.45,
+  "avg_spent": 39.87694610778443,
+  "transaction_count": 167,
+  "client_id": 667
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f561"
+  },
+  "total_spent": 6656.16,
+  "avg_spent": 35.594438502673796,
+  "transaction_count": 187,
+  "client_id": 1955
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f562"
+  },
+  "total_spent": 6649.46,
+  "avg_spent": 40.79423312883436,
+  "transaction_count": 163,
+  "client_id": 1103
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f563"
+  },
+  "total_spent": 6647.48,
+  "avg_spent": 49.608059701492536,
+  "transaction_count": 134,
+  "client_id": 401
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f564"
+  },
+  "total_spent": 6644.21,
+  "avg_spent": 61.52046296296297,
+  "transaction_count": 108,
+  "client_id": 469
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f565"
+  },
+  "total_spent": 6635.52,
+  "avg_spent": 52.66285714285715,
+  "transaction_count": 126,
+  "client_id": 194
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f566"
+  },
+  "total_spent": 6633.81,
+  "avg_spent": 89.64608108108109,
+  "transaction_count": 74,
+  "client_id": 28
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f567"
+  },
+  "total_spent": 6617.82,
+  "avg_spent": 45.32753424657534,
+  "transaction_count": 146,
+  "client_id": 1286
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f568"
+  },
+  "total_spent": 6605.849999999999,
+  "avg_spent": 71.03064516129032,
+  "transaction_count": 93,
+  "client_id": 227
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f569"
+  },
+  "total_spent": 6605.16,
+  "avg_spent": 48.92711111111111,
+  "transaction_count": 135,
+  "client_id": 1195
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f56a"
+  },
+  "total_spent": 6601,
+  "avg_spent": 104.77777777777777,
+  "transaction_count": 63,
+  "client_id": 110
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f56b"
+  },
+  "total_spent": 6600.18,
+  "avg_spent": 57.392869565217396,
+  "transaction_count": 115,
+  "client_id": 1733
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f56c"
+  },
+  "total_spent": 6597.92,
+  "avg_spent": 56.392478632478635,
+  "transaction_count": 117,
+  "client_id": 121
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f56d"
+  },
+  "total_spent": 6587.92,
+  "avg_spent": 46.72283687943263,
+  "transaction_count": 141,
+  "client_id": 1140
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f56e"
+  },
+  "total_spent": 6576.14,
+  "avg_spent": 48.00102189781022,
+  "transaction_count": 137,
+  "client_id": 1169
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f56f"
+  },
+  "total_spent": 6571.12,
+  "avg_spent": 41.32779874213836,
+  "transaction_count": 159,
+  "client_id": 1378
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f570"
+  },
+  "total_spent": 6554.8,
+  "avg_spent": 56.50689655172414,
+  "transaction_count": 116,
+  "client_id": 437
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f571"
+  },
+  "total_spent": 6552.74,
+  "avg_spent": 64.87861386138614,
+  "transaction_count": 101,
+  "client_id": 432
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f572"
+  },
+  "total_spent": 6537.84,
+  "avg_spent": 66.03878787878789,
+  "transaction_count": 99,
+  "client_id": 1048
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f573"
+  },
+  "total_spent": 6528.7,
+  "avg_spent": 41.061006289308175,
+  "transaction_count": 159,
+  "client_id": 602
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f574"
+  },
+  "total_spent": 6507.98,
+  "avg_spent": 41.45210191082802,
+  "transaction_count": 157,
+  "client_id": 1880
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f575"
+  },
+  "total_spent": 6498.13,
+  "avg_spent": 57.00114035087719,
+  "transaction_count": 114,
+  "client_id": 1613
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f576"
+  },
+  "total_spent": 6496.97,
+  "avg_spent": 41.12006329113924,
+  "transaction_count": 158,
+  "client_id": 323
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f577"
+  },
+  "total_spent": 6467.9,
+  "avg_spent": 49.37328244274809,
+  "transaction_count": 131,
+  "client_id": 1424
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f578"
+  },
+  "total_spent": 6449.38,
+  "avg_spent": 60.274579439252335,
+  "transaction_count": 107,
+  "client_id": 1568
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f579"
+  },
+  "total_spent": 6441.29,
+  "avg_spent": 46.67601449275362,
+  "transaction_count": 138,
+  "client_id": 1919
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f57a"
+  },
+  "total_spent": 6437.78,
+  "avg_spent": 32.1889,
+  "transaction_count": 200,
+  "client_id": 1077
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f57b"
+  },
+  "total_spent": 6434.54,
+  "avg_spent": 48.018955223880596,
+  "transaction_count": 134,
+  "client_id": 1512
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f57c"
+  },
+  "total_spent": 6422.84,
+  "avg_spent": 51.79709677419355,
+  "transaction_count": 124,
+  "client_id": 205
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f57d"
+  },
+  "total_spent": 6417.21,
+  "avg_spent": 40.1075625,
+  "transaction_count": 160,
+  "client_id": 1712
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f57e"
+  },
+  "total_spent": 6415.61,
+  "avg_spent": 52.15943089430894,
+  "transaction_count": 123,
+  "client_id": 1135
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f57f"
+  },
+  "total_spent": 6413.11,
+  "avg_spent": 53.44258333333333,
+  "transaction_count": 120,
+  "client_id": 1370
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f580"
+  },
+  "total_spent": 6402.06,
+  "avg_spent": 68.83935483870968,
+  "transaction_count": 93,
+  "client_id": 1616
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f581"
+  },
+  "total_spent": 6396.4,
+  "avg_spent": 71.86966292134831,
+  "transaction_count": 89,
+  "client_id": 1875
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f582"
+  },
+  "total_spent": 6395.56,
+  "avg_spent": 36.13310734463277,
+  "transaction_count": 177,
+  "client_id": 81
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f583"
+  },
+  "total_spent": 6393.62,
+  "avg_spent": 59.200185185185184,
+  "transaction_count": 108,
+  "client_id": 1326
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f584"
+  },
+  "total_spent": 6373.2699999999995,
+  "avg_spent": 50.98616,
+  "transaction_count": 125,
+  "client_id": 1591
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f585"
+  },
+  "total_spent": 6367.35,
+  "avg_spent": 46.14021739130435,
+  "transaction_count": 138,
+  "client_id": 1443
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f586"
+  },
+  "total_spent": 6349.31,
+  "avg_spent": 61.643786407766996,
+  "transaction_count": 103,
+  "client_id": 1497
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f587"
+  },
+  "total_spent": 6339.89,
+  "avg_spent": 68.91184782608696,
+  "transaction_count": 92,
+  "client_id": 1383
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f588"
+  },
+  "total_spent": 6333.54,
+  "avg_spent": 51.07693548387097,
+  "transaction_count": 124,
+  "client_id": 1725
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f589"
+  },
+  "total_spent": 6310.58,
+  "avg_spent": 56.85207207207207,
+  "transaction_count": 111,
+  "client_id": 1405
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f58a"
+  },
+  "total_spent": 6296.39,
+  "avg_spent": 44.97421428571429,
+  "transaction_count": 140,
+  "client_id": 564
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f58b"
+  },
+  "total_spent": 6291.46,
+  "avg_spent": 60.494807692307695,
+  "transaction_count": 104,
+  "client_id": 1384
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f58c"
+  },
+  "total_spent": 6291.45,
+  "avg_spent": 149.79642857142858,
+  "transaction_count": 42,
+  "client_id": 222
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f58d"
+  },
+  "total_spent": 6263.45,
+  "avg_spent": 43.80034965034965,
+  "transaction_count": 143,
+  "client_id": 1799
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f58e"
+  },
+  "total_spent": 6233.17,
+  "avg_spent": 51.09155737704918,
+  "transaction_count": 122,
+  "client_id": 200
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f58f"
+  },
+  "total_spent": 6231.5,
+  "avg_spent": 60.5,
+  "transaction_count": 103,
+  "client_id": 905
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f590"
+  },
+  "total_spent": 6225.65,
+  "avg_spent": 44.15354609929078,
+  "transaction_count": 141,
+  "client_id": 394
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f591"
+  },
+  "total_spent": 6223.11,
+  "avg_spent": 51.859249999999996,
+  "transaction_count": 120,
+  "client_id": 912
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f592"
+  },
+  "total_spent": 6218.65,
+  "avg_spent": 59.22523809523809,
+  "transaction_count": 105,
+  "client_id": 1923
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f593"
+  },
+  "total_spent": 6218.07,
+  "avg_spent": 70.65988636363636,
+  "transaction_count": 88,
+  "client_id": 1226
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f594"
+  },
+  "total_spent": 6205.13,
+  "avg_spent": 43.6980985915493,
+  "transaction_count": 142,
+  "client_id": 1807
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f595"
+  },
+  "total_spent": 6199.64,
+  "avg_spent": 45.58558823529412,
+  "transaction_count": 136,
+  "client_id": 1345
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f596"
+  },
+  "total_spent": 6186.33,
+  "avg_spent": 30.62539603960396,
+  "transaction_count": 202,
+  "client_id": 804
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f597"
+  },
+  "total_spent": 6167.57,
+  "avg_spent": 57.64084112149533,
+  "transaction_count": 107,
+  "client_id": 229
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f598"
+  },
+  "total_spent": 6143.54,
+  "avg_spent": 34.709265536723166,
+  "transaction_count": 177,
+  "client_id": 891
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f599"
+  },
+  "total_spent": 6143.51,
+  "avg_spent": 56.884351851851854,
+  "transaction_count": 108,
+  "client_id": 1765
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f59a"
+  },
+  "total_spent": 6138.52,
+  "avg_spent": 56.31669724770643,
+  "transaction_count": 109,
+  "client_id": 231
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f59b"
+  },
+  "total_spent": 6135.77,
+  "avg_spent": 81.81026666666668,
+  "transaction_count": 75,
+  "client_id": 1430
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f59c"
+  },
+  "total_spent": 6133.28,
+  "avg_spent": 52.87310344827586,
+  "transaction_count": 116,
+  "client_id": 1416
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f59d"
+  },
+  "total_spent": 6128.24,
+  "avg_spent": 48.25385826771653,
+  "transaction_count": 127,
+  "client_id": 1740
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f59e"
+  },
+  "total_spent": 6124.52,
+  "avg_spent": 30.319405940594063,
+  "transaction_count": 202,
+  "client_id": 871
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f59f"
+  },
+  "total_spent": 6110.13,
+  "avg_spent": 80.39644736842105,
+  "transaction_count": 76,
+  "client_id": 848
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a0"
+  },
+  "total_spent": 6103.87,
+  "avg_spent": 75.35641975308641,
+  "transaction_count": 81,
+  "client_id": 1417
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a1"
+  },
+  "total_spent": 6099.35,
+  "avg_spent": 58.08904761904762,
+  "transaction_count": 105,
+  "client_id": 1561
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a2"
+  },
+  "total_spent": 6097.38,
+  "avg_spent": 47.26651162790698,
+  "transaction_count": 129,
+  "client_id": 122
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a3"
+  },
+  "total_spent": 6096.63,
+  "avg_spent": 82.38689189189189,
+  "transaction_count": 74,
+  "client_id": 1979
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a4"
+  },
+  "total_spent": 6070.25,
+  "avg_spent": 51.010504201680675,
+  "transaction_count": 119,
+  "client_id": 354
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a5"
+  },
+  "total_spent": 6062.79,
+  "avg_spent": 40.4186,
+  "transaction_count": 150,
+  "client_id": 1072
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a6"
+  },
+  "total_spent": 6043.92,
+  "avg_spent": 45.78727272727273,
+  "transaction_count": 132,
+  "client_id": 1964
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a7"
+  },
+  "total_spent": 6031.66,
+  "avg_spent": 46.04320610687023,
+  "transaction_count": 131,
+  "client_id": 1774
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a8"
+  },
+  "total_spent": 6031.2699999999995,
+  "avg_spent": 62.82572916666666,
+  "transaction_count": 96,
+  "client_id": 1993
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5a9"
+  },
+  "total_spent": 6027.5,
+  "avg_spent": 51.96120689655172,
+  "transaction_count": 116,
+  "client_id": 1600
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5aa"
+  },
+  "total_spent": 6022.98,
+  "avg_spent": 64.07425531914893,
+  "transaction_count": 94,
+  "client_id": 1741
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ab"
+  },
+  "total_spent": 6003.8,
+  "avg_spent": 52.664912280701756,
+  "transaction_count": 114,
+  "client_id": 11
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ac"
+  },
+  "total_spent": 5990.21,
+  "avg_spent": 95.08269841269842,
+  "transaction_count": 63,
+  "client_id": 1307
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ad"
+  },
+  "total_spent": 5976.66,
+  "avg_spent": 39.06313725490196,
+  "transaction_count": 153,
+  "client_id": 1967
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ae"
+  },
+  "total_spent": 5975.2,
+  "avg_spent": 61.6,
+  "transaction_count": 97,
+  "client_id": 477
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5af"
+  },
+  "total_spent": 5974.01,
+  "avg_spent": 41.77629370629371,
+  "transaction_count": 143,
+  "client_id": 814
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b0"
+  },
+  "total_spent": 5962.66,
+  "avg_spent": 82.81472222222222,
+  "transaction_count": 72,
+  "client_id": 1027
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b1"
+  },
+  "total_spent": 5946.67,
+  "avg_spent": 66.07411111111111,
+  "transaction_count": 90,
+  "client_id": 1863
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b2"
+  },
+  "total_spent": 5941.12,
+  "avg_spent": 54.01018181818182,
+  "transaction_count": 110,
+  "client_id": 1341
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b3"
+  },
+  "total_spent": 5926.4,
+  "avg_spent": 69.72235294117647,
+  "transaction_count": 85,
+  "client_id": 257
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b4"
+  },
+  "total_spent": 5913.16,
+  "avg_spent": 54.75148148148148,
+  "transaction_count": 108,
+  "client_id": 1019
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b5"
+  },
+  "total_spent": 5912.79,
+  "avg_spent": 50.53666666666667,
+  "transaction_count": 117,
+  "client_id": 1928
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b6"
+  },
+  "total_spent": 5903.8,
+  "avg_spent": 54.16330275229358,
+  "transaction_count": 109,
+  "client_id": 1677
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b7"
+  },
+  "total_spent": 5883.36,
+  "avg_spent": 46.69333333333333,
+  "transaction_count": 126,
+  "client_id": 1075
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b8"
+  },
+  "total_spent": 5880.76,
+  "avg_spent": 44.21624060150376,
+  "transaction_count": 133,
+  "client_id": 845
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5b9"
+  },
+  "total_spent": 5878.68,
+  "avg_spent": 52.02371681415929,
+  "transaction_count": 113,
+  "client_id": 497
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ba"
+  },
+  "total_spent": 5857.58,
+  "avg_spent": 48.81316666666667,
+  "transaction_count": 120,
+  "client_id": 0
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5bb"
+  },
+  "total_spent": 5844.01,
+  "avg_spent": 47.12911290322581,
+  "transaction_count": 124,
+  "client_id": 1288
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5bc"
+  },
+  "total_spent": 5839.27,
+  "avg_spent": 65.60977528089889,
+  "transaction_count": 89,
+  "client_id": 319
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5bd"
+  },
+  "total_spent": 5835.79,
+  "avg_spent": 67.85802325581395,
+  "transaction_count": 86,
+  "client_id": 1284
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5be"
+  },
+  "total_spent": 5811.62,
+  "avg_spent": 30.587473684210526,
+  "transaction_count": 190,
+  "client_id": 828
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5bf"
+  },
+  "total_spent": 5798.22,
+  "avg_spent": 50.86157894736842,
+  "transaction_count": 114,
+  "client_id": 1247
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c0"
+  },
+  "total_spent": 5796.57,
+  "avg_spent": 45.285703125,
+  "transaction_count": 128,
+  "client_id": 1376
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c1"
+  },
+  "total_spent": 5786.11,
+  "avg_spent": 38.31860927152318,
+  "transaction_count": 151,
+  "client_id": 716
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c2"
+  },
+  "total_spent": 5780.94,
+  "avg_spent": 35.90645962732919,
+  "transaction_count": 161,
+  "client_id": 1466
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c3"
+  },
+  "total_spent": 5768.75,
+  "avg_spent": 40.625,
+  "transaction_count": 142,
+  "client_id": 1977
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c4"
+  },
+  "total_spent": 5759.63,
+  "avg_spent": 31.47338797814208,
+  "transaction_count": 183,
+  "client_id": 1541
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c5"
+  },
+  "total_spent": 5752.76,
+  "avg_spent": 47.543471074380165,
+  "transaction_count": 121,
+  "client_id": 585
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c6"
+  },
+  "total_spent": 5752.23,
+  "avg_spent": 54.783142857142856,
+  "transaction_count": 105,
+  "client_id": 385
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c7"
+  },
+  "total_spent": 5741.35,
+  "avg_spent": 51.262053571428574,
+  "transaction_count": 112,
+  "client_id": 938
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c8"
+  },
+  "total_spent": 5732.46,
+  "avg_spent": 55.65495145631068,
+  "transaction_count": 103,
+  "client_id": 213
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5c9"
+  },
+  "total_spent": 5726.23,
+  "avg_spent": 50.6746017699115,
+  "transaction_count": 113,
+  "client_id": 658
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ca"
+  },
+  "total_spent": 5726.19,
+  "avg_spent": 59.64781249999999,
+  "transaction_count": 96,
+  "client_id": 1996
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5cb"
+  },
+  "total_spent": 5721.21,
+  "avg_spent": 102.16446428571429,
+  "transaction_count": 56,
+  "client_id": 1851
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5cc"
+  },
+  "total_spent": 5718.22,
+  "avg_spent": 29.32420512820513,
+  "transaction_count": 195,
+  "client_id": 592
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5cd"
+  },
+  "total_spent": 5717.13,
+  "avg_spent": 38.62925675675676,
+  "transaction_count": 148,
+  "client_id": 1393
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ce"
+  },
+  "total_spent": 5685.24,
+  "avg_spent": 73.83428571428571,
+  "transaction_count": 77,
+  "client_id": 100
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5cf"
+  },
+  "total_spent": 5684.62,
+  "avg_spent": 61.78934782608695,
+  "transaction_count": 92,
+  "client_id": 1181
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d0"
+  },
+  "total_spent": 5682.88,
+  "avg_spent": 64.57818181818182,
+  "transaction_count": 88,
+  "client_id": 1031
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d1"
+  },
+  "total_spent": 5645.8,
+  "avg_spent": 40.04113475177305,
+  "transaction_count": 141,
+  "client_id": 970
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d2"
+  },
+  "total_spent": 5629.65,
+  "avg_spent": 43.640697674418604,
+  "transaction_count": 129,
+  "client_id": 1538
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d3"
+  },
+  "total_spent": 5604.94,
+  "avg_spent": 35.700254777070064,
+  "transaction_count": 157,
+  "client_id": 676
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d4"
+  },
+  "total_spent": 5590.54,
+  "avg_spent": 62.81505617977528,
+  "transaction_count": 89,
+  "client_id": 1477
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d5"
+  },
+  "total_spent": 5584.39,
+  "avg_spent": 69.80487500000001,
+  "transaction_count": 80,
+  "client_id": 236
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d6"
+  },
+  "total_spent": 5575.4,
+  "avg_spent": 50.228828828828824,
+  "transaction_count": 111,
+  "client_id": 178
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d7"
+  },
+  "total_spent": 5574.3,
+  "avg_spent": 62.63258426966292,
+  "transaction_count": 89,
+  "client_id": 27
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d8"
+  },
+  "total_spent": 5564.12,
+  "avg_spent": 56.77673469387755,
+  "transaction_count": 98,
+  "client_id": 274
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5d9"
+  },
+  "total_spent": 5550.41,
+  "avg_spent": 59.681827956989245,
+  "transaction_count": 93,
+  "client_id": 13
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5da"
+  },
+  "total_spent": 5549.29,
+  "avg_spent": 54.94346534653465,
+  "transaction_count": 101,
+  "client_id": 1173
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5db"
+  },
+  "total_spent": 5542.75,
+  "avg_spent": 53.29567307692308,
+  "transaction_count": 104,
+  "client_id": 895
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5dc"
+  },
+  "total_spent": 5521.19,
+  "avg_spent": 49.29633928571428,
+  "transaction_count": 112,
+  "client_id": 1902
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5dd"
+  },
+  "total_spent": 5512.61,
+  "avg_spent": 24.60986607142857,
+  "transaction_count": 224,
+  "client_id": 639
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5de"
+  },
+  "total_spent": 5506.2,
+  "avg_spent": 43.699999999999996,
+  "transaction_count": 126,
+  "client_id": 470
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5df"
+  },
+  "total_spent": 5505.76,
+  "avg_spent": 52.940000000000005,
+  "transaction_count": 104,
+  "client_id": 1492
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e0"
+  },
+  "total_spent": 5505.39,
+  "avg_spent": 44.04312,
+  "transaction_count": 125,
+  "client_id": 1525
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e1"
+  },
+  "total_spent": 5503.06,
+  "avg_spent": 49.57711711711712,
+  "transaction_count": 111,
+  "client_id": 1830
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e2"
+  },
+  "total_spent": 5486.89,
+  "avg_spent": 43.895120000000006,
+  "transaction_count": 125,
+  "client_id": 1058
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e3"
+  },
+  "total_spent": 5486.81,
+  "avg_spent": 33.8691975308642,
+  "transaction_count": 162,
+  "client_id": 89
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e4"
+  },
+  "total_spent": 5482.39,
+  "avg_spent": 58.323297872340426,
+  "transaction_count": 94,
+  "client_id": 280
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e5"
+  },
+  "total_spent": 5481.34,
+  "avg_spent": 48.081929824561406,
+  "transaction_count": 114,
+  "client_id": 1323
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e6"
+  },
+  "total_spent": 5471.46,
+  "avg_spent": 60.12593406593407,
+  "transaction_count": 91,
+  "client_id": 332
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e7"
+  },
+  "total_spent": 5470.35,
+  "avg_spent": 62.87758620689656,
+  "transaction_count": 87,
+  "client_id": 1142
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e8"
+  },
+  "total_spent": 5463.91,
+  "avg_spent": 42.686796875,
+  "transaction_count": 128,
+  "client_id": 460
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5e9"
+  },
+  "total_spent": 5462.84,
+  "avg_spent": 121.39644444444444,
+  "transaction_count": 45,
+  "client_id": 839
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ea"
+  },
+  "total_spent": 5459.17,
+  "avg_spent": 38.71751773049645,
+  "transaction_count": 141,
+  "client_id": 1516
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5eb"
+  },
+  "total_spent": 5441.11,
+  "avg_spent": 48.15141592920354,
+  "transaction_count": 113,
+  "client_id": 33
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ec"
+  },
+  "total_spent": 5436.11,
+  "avg_spent": 54.36109999999999,
+  "transaction_count": 100,
+  "client_id": 1815
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ed"
+  },
+  "total_spent": 5432.03,
+  "avg_spent": 70.54584415584415,
+  "transaction_count": 77,
+  "client_id": 1091
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ee"
+  },
+  "total_spent": 5427.61,
+  "avg_spent": 59.64406593406593,
+  "transaction_count": 91,
+  "client_id": 346
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ef"
+  },
+  "total_spent": 5418.42,
+  "avg_spent": 40.435970149253734,
+  "transaction_count": 134,
+  "client_id": 1258
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f0"
+  },
+  "total_spent": 5416.36,
+  "avg_spent": 32.62867469879518,
+  "transaction_count": 166,
+  "client_id": 1279
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f1"
+  },
+  "total_spent": 5410.71,
+  "avg_spent": 54.653636363636366,
+  "transaction_count": 99,
+  "client_id": 1515
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f2"
+  },
+  "total_spent": 5410.55,
+  "avg_spent": 32.20565476190476,
+  "transaction_count": 168,
+  "client_id": 1992
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f3"
+  },
+  "total_spent": 5409.150000000001,
+  "avg_spent": 50.084722222222226,
+  "transaction_count": 108,
+  "client_id": 1788
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f4"
+  },
+  "total_spent": 5399.8,
+  "avg_spent": 78.25797101449275,
+  "transaction_count": 69,
+  "client_id": 623
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f5"
+  },
+  "total_spent": 5390.22,
+  "avg_spent": 58.58934782608696,
+  "transaction_count": 92,
+  "client_id": 1227
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f6"
+  },
+  "total_spent": 5387.28,
+  "avg_spent": 42.41952755905512,
+  "transaction_count": 127,
+  "client_id": 1432
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f7"
+  },
+  "total_spent": 5375.01,
+  "avg_spent": 63.23541176470589,
+  "transaction_count": 85,
+  "client_id": 877
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f8"
+  },
+  "total_spent": 5369.21,
+  "avg_spent": 34.865,
+  "transaction_count": 154,
+  "client_id": 1344
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5f9"
+  },
+  "total_spent": 5366.62,
+  "avg_spent": 42.93296,
+  "transaction_count": 125,
+  "client_id": 250
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5fa"
+  },
+  "total_spent": 5355.05,
+  "avg_spent": 38.52553956834532,
+  "transaction_count": 139,
+  "client_id": 1485
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5fb"
+  },
+  "total_spent": 5343.81,
+  "avg_spent": 44.163719008264465,
+  "transaction_count": 121,
+  "client_id": 462
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5fc"
+  },
+  "total_spent": 5341.89,
+  "avg_spent": 111.289375,
+  "transaction_count": 48,
+  "client_id": 1303
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5fd"
+  },
+  "total_spent": 5341.61,
+  "avg_spent": 60.70011363636363,
+  "transaction_count": 88,
+  "client_id": 665
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5fe"
+  },
+  "total_spent": 5334.49,
+  "avg_spent": 62.75870588235294,
+  "transaction_count": 85,
+  "client_id": 1987
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f5ff"
+  },
+  "total_spent": 5325.35,
+  "avg_spent": 58.52032967032967,
+  "transaction_count": 91,
+  "client_id": 44
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f600"
+  },
+  "total_spent": 5320.62,
+  "avg_spent": 46.266260869565215,
+  "transaction_count": 115,
+  "client_id": 908
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f601"
+  },
+  "total_spent": 5319.97,
+  "avg_spent": 52.15656862745098,
+  "transaction_count": 102,
+  "client_id": 876
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f602"
+  },
+  "total_spent": 5317.66,
+  "avg_spent": 46.240521739130436,
+  "transaction_count": 115,
+  "client_id": 1256
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f603"
+  },
+  "total_spent": 5317.39,
+  "avg_spent": 34.5285064935065,
+  "transaction_count": 154,
+  "client_id": 1222
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f604"
+  },
+  "total_spent": 5314.86,
+  "avg_spent": 63.27214285714285,
+  "transaction_count": 84,
+  "client_id": 1526
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f605"
+  },
+  "total_spent": 5313.6,
+  "avg_spent": 55.93263157894737,
+  "transaction_count": 95,
+  "client_id": 906
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f606"
+  },
+  "total_spent": 5295.15,
+  "avg_spent": 35.06721854304636,
+  "transaction_count": 151,
+  "client_id": 1644
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f607"
+  },
+  "total_spent": 5287.44,
+  "avg_spent": 86.67934426229507,
+  "transaction_count": 61,
+  "client_id": 638
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f608"
+  },
+  "total_spent": 5279.64,
+  "avg_spent": 56.770322580645164,
+  "transaction_count": 93,
+  "client_id": 1898
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f609"
+  },
+  "total_spent": 5274.08,
+  "avg_spent": 39.654736842105265,
+  "transaction_count": 133,
+  "client_id": 467
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f60a"
+  },
+  "total_spent": 5270.97,
+  "avg_spent": 33.360569620253166,
+  "transaction_count": 158,
+  "client_id": 1080
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f60b"
+  },
+  "total_spent": 5251.4,
+  "avg_spent": 44.12941176470588,
+  "transaction_count": 119,
+  "client_id": 1107
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f60c"
+  },
+  "total_spent": 5250.22,
+  "avg_spent": 65.62775,
+  "transaction_count": 80,
+  "client_id": 992
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f60d"
+  },
+  "total_spent": 5240.24,
+  "avg_spent": 55.16042105263158,
+  "transaction_count": 95,
+  "client_id": 1916
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f60e"
+  },
+  "total_spent": 5226.5,
+  "avg_spent": 47.085585585585584,
+  "transaction_count": 111,
+  "client_id": 1422
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f60f"
+  },
+  "total_spent": 5219.2,
+  "avg_spent": 19.695094339622642,
+  "transaction_count": 265,
+  "client_id": 379
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f610"
+  },
+  "total_spent": 5208.26,
+  "avg_spent": 47.782201834862384,
+  "transaction_count": 109,
+  "client_id": 1936
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f611"
+  },
+  "total_spent": 5193.11,
+  "avg_spent": 43.27591666666667,
+  "transaction_count": 120,
+  "client_id": 1177
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f612"
+  },
+  "total_spent": 5186.32,
+  "avg_spent": 24.348920187793425,
+  "transaction_count": 213,
+  "client_id": 1237
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f613"
+  },
+  "total_spent": 5176.6,
+  "avg_spent": 36.45492957746479,
+  "transaction_count": 142,
+  "client_id": 940
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f614"
+  },
+  "total_spent": 5170.36,
+  "avg_spent": 48.3211214953271,
+  "transaction_count": 107,
+  "client_id": 1535
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f615"
+  },
+  "total_spent": 5165.1,
+  "avg_spent": 50.63823529411765,
+  "transaction_count": 102,
+  "client_id": 1913
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f616"
+  },
+  "total_spent": 5163.43,
+  "avg_spent": 56.74098901098901,
+  "transaction_count": 91,
+  "client_id": 1693
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f617"
+  },
+  "total_spent": 5160.01,
+  "avg_spent": 45.26324561403509,
+  "transaction_count": 114,
+  "client_id": 631
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f618"
+  },
+  "total_spent": 5153.08,
+  "avg_spent": 52.58244897959184,
+  "transaction_count": 98,
+  "client_id": 1133
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f619"
+  },
+  "total_spent": 5145.15,
+  "avg_spent": 28.1155737704918,
+  "transaction_count": 183,
+  "client_id": 1024
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f61a"
+  },
+  "total_spent": 5143.05,
+  "avg_spent": 45.92008928571429,
+  "transaction_count": 112,
+  "client_id": 1073
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f61b"
+  },
+  "total_spent": 5135.93,
+  "avg_spent": 59.03367816091954,
+  "transaction_count": 87,
+  "client_id": 1196
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f61c"
+  },
+  "total_spent": 5105.89,
+  "avg_spent": 36.21198581560284,
+  "transaction_count": 141,
+  "client_id": 1500
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f61d"
+  },
+  "total_spent": 5101.45,
+  "avg_spent": 26.02780612244898,
+  "transaction_count": 196,
+  "client_id": 1369
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f61e"
+  },
+  "total_spent": 5094.74,
+  "avg_spent": 53.07020833333333,
+  "transaction_count": 96,
+  "client_id": 1229
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f61f"
+  },
+  "total_spent": 5092.27,
+  "avg_spent": 69.75712328767123,
+  "transaction_count": 73,
+  "client_id": 402
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f620"
+  },
+  "total_spent": 5088.5,
+  "avg_spent": 41.36991869918699,
+  "transaction_count": 123,
+  "client_id": 538
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f621"
+  },
+  "total_spent": 5083.66,
+  "avg_spent": 62.761234567901234,
+  "transaction_count": 81,
+  "client_id": 300
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f622"
+  },
+  "total_spent": 5079.96,
+  "avg_spent": 145.1417142857143,
+  "transaction_count": 35,
+  "client_id": 458
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f623"
+  },
+  "total_spent": 5073.95,
+  "avg_spent": 79.28046875,
+  "transaction_count": 64,
+  "client_id": 1756
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f624"
+  },
+  "total_spent": 5056.95,
+  "avg_spent": 62.43148148148148,
+  "transaction_count": 81,
+  "client_id": 1184
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f625"
+  },
+  "total_spent": 5053.07,
+  "avg_spent": 58.75662790697674,
+  "transaction_count": 86,
+  "client_id": 1855
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f626"
+  },
+  "total_spent": 5051.9,
+  "avg_spent": 52.08144329896907,
+  "transaction_count": 97,
+  "client_id": 480
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f627"
+  },
+  "total_spent": 5051.16,
+  "avg_spent": 37.416,
+  "transaction_count": 135,
+  "client_id": 790
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f628"
+  },
+  "total_spent": 5049.16,
+  "avg_spent": 35.557464788732396,
+  "transaction_count": 142,
+  "client_id": 1026
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f629"
+  },
+  "total_spent": 5024.38,
+  "avg_spent": 40.848617886178864,
+  "transaction_count": 123,
+  "client_id": 1121
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f62a"
+  },
+  "total_spent": 4986.23,
+  "avg_spent": 48.41,
+  "transaction_count": 103,
+  "client_id": 273
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f62b"
+  },
+  "total_spent": 4979.8,
+  "avg_spent": 34.82377622377623,
+  "transaction_count": 143,
+  "client_id": 156
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f62c"
+  },
+  "total_spent": 4976.82,
+  "avg_spent": 31.49886075949367,
+  "transaction_count": 158,
+  "client_id": 870
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f62d"
+  },
+  "total_spent": 4968.59,
+  "avg_spent": 57.774302325581395,
+  "transaction_count": 86,
+  "client_id": 1670
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f62e"
+  },
+  "total_spent": 4963.81,
+  "avg_spent": 81.37393442622951,
+  "transaction_count": 61,
+  "client_id": 1606
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f62f"
+  },
+  "total_spent": 4954.46,
+  "avg_spent": 69.78112676056338,
+  "transaction_count": 71,
+  "client_id": 706
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f630"
+  },
+  "total_spent": 4953.4800000000005,
+  "avg_spent": 53.84217391304348,
+  "transaction_count": 92,
+  "client_id": 449
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f631"
+  },
+  "total_spent": 4947.47,
+  "avg_spent": 34.12048275862069,
+  "transaction_count": 145,
+  "client_id": 1995
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f632"
+  },
+  "total_spent": 4946.75,
+  "avg_spent": 28.760174418604652,
+  "transaction_count": 172,
+  "client_id": 1519
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f633"
+  },
+  "total_spent": 4946.22,
+  "avg_spent": 62.61037974683545,
+  "transaction_count": 79,
+  "client_id": 1291
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f634"
+  },
+  "total_spent": 4924.36,
+  "avg_spent": 60.05317073170731,
+  "transaction_count": 82,
+  "client_id": 235
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f635"
+  },
+  "total_spent": 4911.83,
+  "avg_spent": 73.31089552238807,
+  "transaction_count": 67,
+  "client_id": 1571
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f636"
+  },
+  "total_spent": 4902.31,
+  "avg_spent": 28.837117647058825,
+  "transaction_count": 170,
+  "client_id": 605
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f637"
+  },
+  "total_spent": 4892.58,
+  "avg_spent": 67.9525,
+  "transaction_count": 72,
+  "client_id": 634
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f638"
+  },
+  "total_spent": 4887.74,
+  "avg_spent": 54.30822222222222,
+  "transaction_count": 90,
+  "client_id": 104
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f639"
+  },
+  "total_spent": 4871.84,
+  "avg_spent": 32.69691275167785,
+  "transaction_count": 149,
+  "client_id": 1873
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f63a"
+  },
+  "total_spent": 4871.07,
+  "avg_spent": 72.70253731343283,
+  "transaction_count": 67,
+  "client_id": 1549
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f63b"
+  },
+  "total_spent": 4865.83,
+  "avg_spent": 47.70421568627451,
+  "transaction_count": 102,
+  "client_id": 646
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f63c"
+  },
+  "total_spent": 4860.96,
+  "avg_spent": 83.8096551724138,
+  "transaction_count": 58,
+  "client_id": 1267
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f63d"
+  },
+  "total_spent": 4859.5,
+  "avg_spent": 53.99444444444445,
+  "transaction_count": 90,
+  "client_id": 1261
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f63e"
+  },
+  "total_spent": 4847.71,
+  "avg_spent": 29.02820359281437,
+  "transaction_count": 167,
+  "client_id": 84
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f63f"
+  },
+  "total_spent": 4834.3,
+  "avg_spent": 36.62348484848485,
+  "transaction_count": 132,
+  "client_id": 87
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f640"
+  },
+  "total_spent": 4824.11,
+  "avg_spent": 30.532341772151895,
+  "transaction_count": 158,
+  "client_id": 1296
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f641"
+  },
+  "total_spent": 4823.86,
+  "avg_spent": 58.118795180722884,
+  "transaction_count": 83,
+  "client_id": 452
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f642"
+  },
+  "total_spent": 4815.12,
+  "avg_spent": 54.71727272727273,
+  "transaction_count": 88,
+  "client_id": 1183
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f643"
+  },
+  "total_spent": 4808.94,
+  "avg_spent": 45.36735849056603,
+  "transaction_count": 106,
+  "client_id": 1397
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f644"
+  },
+  "total_spent": 4777.36,
+  "avg_spent": 36.46839694656488,
+  "transaction_count": 131,
+  "client_id": 1511
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f645"
+  },
+  "total_spent": 4773.82,
+  "avg_spent": 50.78531914893617,
+  "transaction_count": 94,
+  "client_id": 1856
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f646"
+  },
+  "total_spent": 4770.73,
+  "avg_spent": 43.76816513761467,
+  "transaction_count": 109,
+  "client_id": 1334
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f647"
+  },
+  "total_spent": 4767.85,
+  "avg_spent": 57.443975903614465,
+  "transaction_count": 83,
+  "client_id": 823
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f648"
+  },
+  "total_spent": 4758.07,
+  "avg_spent": 47.109603960396036,
+  "transaction_count": 101,
+  "client_id": 1895
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f649"
+  },
+  "total_spent": 4753.83,
+  "avg_spent": 40.28669491525424,
+  "transaction_count": 118,
+  "client_id": 1678
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f64a"
+  },
+  "total_spent": 4753.61,
+  "avg_spent": 36.849689922480614,
+  "transaction_count": 129,
+  "client_id": 526
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f64b"
+  },
+  "total_spent": 4745.37,
+  "avg_spent": 32.502534246575344,
+  "transaction_count": 146,
+  "client_id": 1769
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f64c"
+  },
+  "total_spent": 4738.17,
+  "avg_spent": 67.68814285714286,
+  "transaction_count": 70,
+  "client_id": 1217
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f64d"
+  },
+  "total_spent": 4734.49,
+  "avg_spent": 44.247570093457945,
+  "transaction_count": 107,
+  "client_id": 1210
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f64e"
+  },
+  "total_spent": 4703.04,
+  "avg_spent": 31.3536,
+  "transaction_count": 150,
+  "client_id": 161
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f64f"
+  },
+  "total_spent": 4702.37,
+  "avg_spent": 56.655060240963856,
+  "transaction_count": 83,
+  "client_id": 619
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f650"
+  },
+  "total_spent": 4698.19,
+  "avg_spent": 38.828016528925616,
+  "transaction_count": 121,
+  "client_id": 1971
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f651"
+  },
+  "total_spent": 4688.14,
+  "avg_spent": 29.671772151898736,
+  "transaction_count": 158,
+  "client_id": 1664
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f652"
+  },
+  "total_spent": 4686.83,
+  "avg_spent": 47.34171717171717,
+  "transaction_count": 99,
+  "client_id": 1569
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f653"
+  },
+  "total_spent": 4666.15,
+  "avg_spent": 42.80871559633027,
+  "transaction_count": 109,
+  "client_id": 368
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f654"
+  },
+  "total_spent": 4654.38,
+  "avg_spent": 43.096111111111114,
+  "transaction_count": 108,
+  "client_id": 918
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f655"
+  },
+  "total_spent": 4651.3,
+  "avg_spent": 59.632051282051286,
+  "transaction_count": 78,
+  "client_id": 831
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f656"
+  },
+  "total_spent": 4647.09,
+  "avg_spent": 51.066923076923075,
+  "transaction_count": 91,
+  "client_id": 964
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f657"
+  },
+  "total_spent": 4636.23,
+  "avg_spent": 47.308469387755096,
+  "transaction_count": 98,
+  "client_id": 1782
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f658"
+  },
+  "total_spent": 4635.65,
+  "avg_spent": 37.68821138211382,
+  "transaction_count": 123,
+  "client_id": 456
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f659"
+  },
+  "total_spent": 4632.47,
+  "avg_spent": 37.059760000000004,
+  "transaction_count": 125,
+  "client_id": 1245
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f65a"
+  },
+  "total_spent": 4619.7,
+  "avg_spent": 28.693788819875774,
+  "transaction_count": 161,
+  "client_id": 1771
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f65b"
+  },
+  "total_spent": 4619.51,
+  "avg_spent": 36.95608,
+  "transaction_count": 125,
+  "client_id": 141
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f65c"
+  },
+  "total_spent": 4617.98,
+  "avg_spent": 34.98469696969697,
+  "transaction_count": 132,
+  "client_id": 1190
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f65d"
+  },
+  "total_spent": 4615.97,
+  "avg_spent": 43.54688679245283,
+  "transaction_count": 106,
+  "client_id": 744
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f65e"
+  },
+  "total_spent": 4610.18,
+  "avg_spent": 38.100661157024796,
+  "transaction_count": 121,
+  "client_id": 217
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f65f"
+  },
+  "total_spent": 4572.32,
+  "avg_spent": 64.39887323943661,
+  "transaction_count": 71,
+  "client_id": 146
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f660"
+  },
+  "total_spent": 4571.54,
+  "avg_spent": 37.78132231404959,
+  "transaction_count": 121,
+  "client_id": 514
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f661"
+  },
+  "total_spent": 4569.3,
+  "avg_spent": 49.13225806451613,
+  "transaction_count": 93,
+  "client_id": 1490
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f662"
+  },
+  "total_spent": 4554.22,
+  "avg_spent": 50.04637362637363,
+  "transaction_count": 91,
+  "client_id": 1097
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f663"
+  },
+  "total_spent": 4536.39,
+  "avg_spent": 54.65530120481928,
+  "transaction_count": 83,
+  "client_id": 496
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f664"
+  },
+  "total_spent": 4533.62,
+  "avg_spent": 28.159130434782607,
+  "transaction_count": 161,
+  "client_id": 668
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f665"
+  },
+  "total_spent": 4528.2,
+  "avg_spent": 32.813043478260866,
+  "transaction_count": 138,
+  "client_id": 123
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f666"
+  },
+  "total_spent": 4524.46,
+  "avg_spent": 52.00528735632184,
+  "transaction_count": 87,
+  "client_id": 1676
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f667"
+  },
+  "total_spent": 4521.36,
+  "avg_spent": 100.47466666666666,
+  "transaction_count": 45,
+  "client_id": 832
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f668"
+  },
+  "total_spent": 4512.66,
+  "avg_spent": 35.8147619047619,
+  "transaction_count": 126,
+  "client_id": 659
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f669"
+  },
+  "total_spent": 4505.72,
+  "avg_spent": 45.0572,
+  "transaction_count": 100,
+  "client_id": 478
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f66a"
+  },
+  "total_spent": 4498.55,
+  "avg_spent": 36.57357723577236,
+  "transaction_count": 123,
+  "client_id": 1737
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f66b"
+  },
+  "total_spent": 4495.69,
+  "avg_spent": 43.647475728155335,
+  "transaction_count": 103,
+  "client_id": 1242
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f66c"
+  },
+  "total_spent": 4491.25,
+  "avg_spent": 48.817934782608695,
+  "transaction_count": 92,
+  "client_id": 933
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f66d"
+  },
+  "total_spent": 4489.25,
+  "avg_spent": 38.70043103448276,
+  "transaction_count": 116,
+  "client_id": 185
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f66e"
+  },
+  "total_spent": 4475.78,
+  "avg_spent": 25.00435754189944,
+  "transaction_count": 179,
+  "client_id": 1758
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f66f"
+  },
+  "total_spent": 4473.47,
+  "avg_spent": 62.131527777777784,
+  "transaction_count": 72,
+  "client_id": 256
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f670"
+  },
+  "total_spent": 4467.15,
+  "avg_spent": 50.19269662921348,
+  "transaction_count": 89,
+  "client_id": 1921
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f671"
+  },
+  "total_spent": 4464.69,
+  "avg_spent": 31.890642857142854,
+  "transaction_count": 140,
+  "client_id": 1193
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f672"
+  },
+  "total_spent": 4461.8,
+  "avg_spent": 94.93191489361702,
+  "transaction_count": 47,
+  "client_id": 888
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f673"
+  },
+  "total_spent": 4447.16,
+  "avg_spent": 56.293164556962026,
+  "transaction_count": 79,
+  "client_id": 242
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f674"
+  },
+  "total_spent": 4444.99,
+  "avg_spent": 82.31462962962962,
+  "transaction_count": 54,
+  "client_id": 320
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f675"
+  },
+  "total_spent": 4443.87,
+  "avg_spent": 61.720416666666665,
+  "transaction_count": 72,
+  "client_id": 1257
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f676"
+  },
+  "total_spent": 4440.7699999999995,
+  "avg_spent": 42.29304761904761,
+  "transaction_count": 105,
+  "client_id": 138
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f677"
+  },
+  "total_spent": 4433.14,
+  "avg_spent": 22.055422885572142,
+  "transaction_count": 201,
+  "client_id": 1786
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f678"
+  },
+  "total_spent": 4430.41,
+  "avg_spent": 43.013689320388345,
+  "transaction_count": 103,
+  "client_id": 128
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f679"
+  },
+  "total_spent": 4417.42,
+  "avg_spent": 34.78283464566929,
+  "transaction_count": 127,
+  "client_id": 1239
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f67a"
+  },
+  "total_spent": 4404.69,
+  "avg_spent": 45.40917525773195,
+  "transaction_count": 97,
+  "client_id": 1170
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f67b"
+  },
+  "total_spent": 4402.29,
+  "avg_spent": 56.43961538461539,
+  "transaction_count": 78,
+  "client_id": 890
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f67c"
+  },
+  "total_spent": 4399.45,
+  "avg_spent": 24.577932960893854,
+  "transaction_count": 179,
+  "client_id": 1840
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f67d"
+  },
+  "total_spent": 4399.35,
+  "avg_spent": 51.15523255813954,
+  "transaction_count": 86,
+  "client_id": 1671
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f67e"
+  },
+  "total_spent": 4398.99,
+  "avg_spent": 57.12974025974026,
+  "transaction_count": 77,
+  "client_id": 546
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f67f"
+  },
+  "total_spent": 4386.76,
+  "avg_spent": 43.433267326732675,
+  "transaction_count": 101,
+  "client_id": 1221
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f680"
+  },
+  "total_spent": 4380.9,
+  "avg_spent": 36.20578512396694,
+  "transaction_count": 121,
+  "client_id": 241
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f681"
+  },
+  "total_spent": 4377.15,
+  "avg_spent": 51.49588235294117,
+  "transaction_count": 85,
+  "client_id": 1352
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f682"
+  },
+  "total_spent": 4372.56,
+  "avg_spent": 80.97333333333334,
+  "transaction_count": 54,
+  "client_id": 1882
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f683"
+  },
+  "total_spent": 4361.65,
+  "avg_spent": 44.50663265306122,
+  "transaction_count": 98,
+  "client_id": 614
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f684"
+  },
+  "total_spent": 4355.22,
+  "avg_spent": 43.1209900990099,
+  "transaction_count": 101,
+  "client_id": 264
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f685"
+  },
+  "total_spent": 4353.12,
+  "avg_spent": 77.73428571428572,
+  "transaction_count": 56,
+  "client_id": 1263
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f686"
+  },
+  "total_spent": 4348.39,
+  "avg_spent": 57.97853333333334,
+  "transaction_count": 75,
+  "client_id": 75
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f687"
+  },
+  "total_spent": 4324.9,
+  "avg_spent": 37.93771929824561,
+  "transaction_count": 114,
+  "client_id": 746
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f688"
+  },
+  "total_spent": 4321.2,
+  "avg_spent": 30.646808510638298,
+  "transaction_count": 141,
+  "client_id": 509
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f689"
+  },
+  "total_spent": 4320,
+  "avg_spent": 88.16326530612245,
+  "transaction_count": 49,
+  "client_id": 1746
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f68a"
+  },
+  "total_spent": 4312.41,
+  "avg_spent": 28.002662337662336,
+  "transaction_count": 154,
+  "client_id": 1825
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f68b"
+  },
+  "total_spent": 4307.74,
+  "avg_spent": 65.26878787878788,
+  "transaction_count": 66,
+  "client_id": 1981
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f68c"
+  },
+  "total_spent": 4304.01,
+  "avg_spent": 75.50894736842106,
+  "transaction_count": 57,
+  "client_id": 133
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f68d"
+  },
+  "total_spent": 4302.92,
+  "avg_spent": 40.98019047619048,
+  "transaction_count": 105,
+  "client_id": 924
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f68e"
+  },
+  "total_spent": 4294.99,
+  "avg_spent": 55.779090909090904,
+  "transaction_count": 77,
+  "client_id": 683
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f68f"
+  },
+  "total_spent": 4293.62,
+  "avg_spent": 37.01396551724138,
+  "transaction_count": 116,
+  "client_id": 1305
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f690"
+  },
+  "total_spent": 4291.67,
+  "avg_spent": 65.02530303030304,
+  "transaction_count": 66,
+  "client_id": 798
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f691"
+  },
+  "total_spent": 4283.03,
+  "avg_spent": 38.585855855855854,
+  "transaction_count": 111,
+  "client_id": 1361
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f692"
+  },
+  "total_spent": 4266.83,
+  "avg_spent": 56.1425,
+  "transaction_count": 76,
+  "client_id": 254
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f693"
+  },
+  "total_spent": 4265.35,
+  "avg_spent": 34.39798387096774,
+  "transaction_count": 124,
+  "client_id": 760
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f694"
+  },
+  "total_spent": 4260.08,
+  "avg_spent": 39.81383177570093,
+  "transaction_count": 107,
+  "client_id": 380
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f695"
+  },
+  "total_spent": 4256.82,
+  "avg_spent": 53.210249999999995,
+  "transaction_count": 80,
+  "client_id": 1609
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f696"
+  },
+  "total_spent": 4253.78,
+  "avg_spent": 30.824492753623186,
+  "transaction_count": 138,
+  "client_id": 1666
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f697"
+  },
+  "total_spent": 4241.72,
+  "avg_spent": 58.912777777777784,
+  "transaction_count": 72,
+  "client_id": 948
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f698"
+  },
+  "total_spent": 4238.83,
+  "avg_spent": 26.659308176100627,
+  "transaction_count": 159,
+  "client_id": 1896
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f699"
+  },
+  "total_spent": 4236.66,
+  "avg_spent": 53.62860759493671,
+  "transaction_count": 79,
+  "client_id": 1148
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f69a"
+  },
+  "total_spent": 4236.16,
+  "avg_spent": 29.417777777777776,
+  "transaction_count": 144,
+  "client_id": 92
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f69b"
+  },
+  "total_spent": 4235.36,
+  "avg_spent": 38.85651376146789,
+  "transaction_count": 109,
+  "client_id": 1742
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f69c"
+  },
+  "total_spent": 4231.55,
+  "avg_spent": 86.35816326530613,
+  "transaction_count": 49,
+  "client_id": 633
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f69d"
+  },
+  "total_spent": 4230.76,
+  "avg_spent": 47.536629213483145,
+  "transaction_count": 89,
+  "client_id": 671
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f69e"
+  },
+  "total_spent": 4227.26,
+  "avg_spent": 25.46542168674699,
+  "transaction_count": 166,
+  "client_id": 1718
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f69f"
+  },
+  "total_spent": 4225.81,
+  "avg_spent": 56.34413333333334,
+  "transaction_count": 75,
+  "client_id": 797
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a0"
+  },
+  "total_spent": 4223.46,
+  "avg_spent": 59.485352112676054,
+  "transaction_count": 71,
+  "client_id": 489
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a1"
+  },
+  "total_spent": 4215.27,
+  "avg_spent": 35.42243697478992,
+  "transaction_count": 119,
+  "client_id": 1849
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a2"
+  },
+  "total_spent": 4215.15,
+  "avg_spent": 30.108214285714283,
+  "transaction_count": 140,
+  "client_id": 1540
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a3"
+  },
+  "total_spent": 4210.56,
+  "avg_spent": 43.40783505154639,
+  "transaction_count": 97,
+  "client_id": 1635
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a4"
+  },
+  "total_spent": 4204.05,
+  "avg_spent": 53.21582278481013,
+  "transaction_count": 79,
+  "client_id": 576
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a5"
+  },
+  "total_spent": 4200.01,
+  "avg_spent": 47.19112359550562,
+  "transaction_count": 89,
+  "client_id": 728
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a6"
+  },
+  "total_spent": 4192.82,
+  "avg_spent": 24.376860465116277,
+  "transaction_count": 172,
+  "client_id": 973
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a7"
+  },
+  "total_spent": 4181.75,
+  "avg_spent": 38.719907407407405,
+  "transaction_count": 108,
+  "client_id": 1006
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a8"
+  },
+  "total_spent": 4178.61,
+  "avg_spent": 68.50180327868851,
+  "transaction_count": 61,
+  "client_id": 38
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6a9"
+  },
+  "total_spent": 4178.45,
+  "avg_spent": 38.68935185185185,
+  "transaction_count": 108,
+  "client_id": 416
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6aa"
+  },
+  "total_spent": 4178.02,
+  "avg_spent": 40.173269230769236,
+  "transaction_count": 104,
+  "client_id": 24
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ab"
+  },
+  "total_spent": 4176.18,
+  "avg_spent": 43.05340206185567,
+  "transaction_count": 97,
+  "client_id": 1944
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ac"
+  },
+  "total_spent": 4162.49,
+  "avg_spent": 17.712723404255318,
+  "transaction_count": 235,
+  "client_id": 1581
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ad"
+  },
+  "total_spent": 4159.33,
+  "avg_spent": 54.72802631578947,
+  "transaction_count": 76,
+  "client_id": 1918
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ae"
+  },
+  "total_spent": 4147.39,
+  "avg_spent": 56.81356164383562,
+  "transaction_count": 73,
+  "client_id": 459
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6af"
+  },
+  "total_spent": 4141.4,
+  "avg_spent": 50.50487804878048,
+  "transaction_count": 82,
+  "client_id": 119
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b0"
+  },
+  "total_spent": 4139.57,
+  "avg_spent": 68.99283333333332,
+  "transaction_count": 60,
+  "client_id": 301
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b1"
+  },
+  "total_spent": 4136.5,
+  "avg_spent": 47.00568181818182,
+  "transaction_count": 88,
+  "client_id": 570
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b2"
+  },
+  "total_spent": 4136.13,
+  "avg_spent": 39.391714285714286,
+  "transaction_count": 105,
+  "client_id": 1356
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b3"
+  },
+  "total_spent": 4108.45,
+  "avg_spent": 39.8878640776699,
+  "transaction_count": 103,
+  "client_id": 1697
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b4"
+  },
+  "total_spent": 4108.34,
+  "avg_spent": 61.31850746268657,
+  "transaction_count": 67,
+  "client_id": 931
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b5"
+  },
+  "total_spent": 4107.8,
+  "avg_spent": 42.78958333333333,
+  "transaction_count": 96,
+  "client_id": 613
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b6"
+  },
+  "total_spent": 4094.68,
+  "avg_spent": 49.333493975903615,
+  "transaction_count": 83,
+  "client_id": 234
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b7"
+  },
+  "total_spent": 4091.94,
+  "avg_spent": 53.142077922077924,
+  "transaction_count": 77,
+  "client_id": 1211
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b8"
+  },
+  "total_spent": 4091.19,
+  "avg_spent": 57.622394366197184,
+  "transaction_count": 71,
+  "client_id": 1861
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6b9"
+  },
+  "total_spent": 4090.31,
+  "avg_spent": 41.31626262626263,
+  "transaction_count": 99,
+  "client_id": 1214
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ba"
+  },
+  "total_spent": 4085.48,
+  "avg_spent": 47.505581395348834,
+  "transaction_count": 86,
+  "client_id": 468
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6bb"
+  },
+  "total_spent": 4077.24,
+  "avg_spent": 44.31782608695652,
+  "transaction_count": 92,
+  "client_id": 575
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6bc"
+  },
+  "total_spent": 4072.49,
+  "avg_spent": 52.889480519480514,
+  "transaction_count": 77,
+  "client_id": 1837
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6bd"
+  },
+  "total_spent": 4068.0099999999998,
+  "avg_spent": 63.562656249999996,
+  "transaction_count": 64,
+  "client_id": 1458
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6be"
+  },
+  "total_spent": 4053.87,
+  "avg_spent": 22.5215,
+  "transaction_count": 180,
+  "client_id": 672
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6bf"
+  },
+  "total_spent": 4053.11,
+  "avg_spent": 26.49091503267974,
+  "transaction_count": 153,
+  "client_id": 360
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c0"
+  },
+  "total_spent": 4051.25,
+  "avg_spent": 27.748287671232877,
+  "transaction_count": 146,
+  "client_id": 652
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c1"
+  },
+  "total_spent": 4048.92,
+  "avg_spent": 33.46214876033058,
+  "transaction_count": 121,
+  "client_id": 47
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c2"
+  },
+  "total_spent": 4043.98,
+  "avg_spent": 101.0995,
+  "transaction_count": 40,
+  "client_id": 826
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c3"
+  },
+  "total_spent": 4037.71,
+  "avg_spent": 38.824134615384615,
+  "transaction_count": 104,
+  "client_id": 1946
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c4"
+  },
+  "total_spent": 4022.29,
+  "avg_spent": 103.13564102564102,
+  "transaction_count": 39,
+  "client_id": 1639
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c5"
+  },
+  "total_spent": 4015.55,
+  "avg_spent": 27.69344827586207,
+  "transaction_count": 145,
+  "client_id": 1563
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c6"
+  },
+  "total_spent": 4004.94,
+  "avg_spent": 50.695443037974684,
+  "transaction_count": 79,
+  "client_id": 712
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c7"
+  },
+  "total_spent": 4003.61,
+  "avg_spent": 27.421986301369863,
+  "transaction_count": 146,
+  "client_id": 62
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c8"
+  },
+  "total_spent": 3990.85,
+  "avg_spent": 30.936821705426357,
+  "transaction_count": 129,
+  "client_id": 366
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6c9"
+  },
+  "total_spent": 3986.5,
+  "avg_spent": 28.679856115107913,
+  "transaction_count": 139,
+  "client_id": 148
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ca"
+  },
+  "total_spent": 3978.13,
+  "avg_spent": 33.15108333333333,
+  "transaction_count": 120,
+  "client_id": 2
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6cb"
+  },
+  "total_spent": 3973.38,
+  "avg_spent": 68.50655172413794,
+  "transaction_count": 58,
+  "client_id": 1425
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6cc"
+  },
+  "total_spent": 3962.53,
+  "avg_spent": 28.923576642335767,
+  "transaction_count": 137,
+  "client_id": 349
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6cd"
+  },
+  "total_spent": 3962.29,
+  "avg_spent": 82.54770833333333,
+  "transaction_count": 48,
+  "client_id": 1640
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ce"
+  },
+  "total_spent": 3949.61,
+  "avg_spent": 54.104246575342465,
+  "transaction_count": 73,
+  "client_id": 1362
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6cf"
+  },
+  "total_spent": 3947.22,
+  "avg_spent": 61.6753125,
+  "transaction_count": 64,
+  "client_id": 118
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d0"
+  },
+  "total_spent": 3942.38,
+  "avg_spent": 27.96014184397163,
+  "transaction_count": 141,
+  "client_id": 78
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d1"
+  },
+  "total_spent": 3935.56,
+  "avg_spent": 40.15877551020408,
+  "transaction_count": 98,
+  "client_id": 1891
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d2"
+  },
+  "total_spent": 3935.12,
+  "avg_spent": 91.51441860465115,
+  "transaction_count": 43,
+  "client_id": 403
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d3"
+  },
+  "total_spent": 3935.08,
+  "avg_spent": 41.86255319148936,
+  "transaction_count": 94,
+  "client_id": 359
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d4"
+  },
+  "total_spent": 3927.09,
+  "avg_spent": 43.15483516483517,
+  "transaction_count": 91,
+  "client_id": 801
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d5"
+  },
+  "total_spent": 3927.04,
+  "avg_spent": 37.76,
+  "transaction_count": 104,
+  "client_id": 1874
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d6"
+  },
+  "total_spent": 3925.2,
+  "avg_spent": 46.72857142857143,
+  "transaction_count": 84,
+  "client_id": 1127
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d7"
+  },
+  "total_spent": 3923.28,
+  "avg_spent": 58.55641791044776,
+  "transaction_count": 67,
+  "client_id": 928
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d8"
+  },
+  "total_spent": 3922.53,
+  "avg_spent": 87.16733333333333,
+  "transaction_count": 45,
+  "client_id": 604
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6d9"
+  },
+  "total_spent": 3916.33,
+  "avg_spent": 33.761465517241376,
+  "transaction_count": 116,
+  "client_id": 1449
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6da"
+  },
+  "total_spent": 3914.11,
+  "avg_spent": 40.35164948453608,
+  "transaction_count": 97,
+  "client_id": 729
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6db"
+  },
+  "total_spent": 3904.16,
+  "avg_spent": 45.39720930232558,
+  "transaction_count": 86,
+  "client_id": 1617
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6dc"
+  },
+  "total_spent": 3891.28,
+  "avg_spent": 31.636422764227643,
+  "transaction_count": 123,
+  "client_id": 1610
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6dd"
+  },
+  "total_spent": 3885.91,
+  "avg_spent": 44.665632183908045,
+  "transaction_count": 87,
+  "client_id": 433
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6de"
+  },
+  "total_spent": 3885.44,
+  "avg_spent": 45.17953488372093,
+  "transaction_count": 86,
+  "client_id": 1246
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6df"
+  },
+  "total_spent": 3880.13,
+  "avg_spent": 64.66883333333334,
+  "transaction_count": 60,
+  "client_id": 979
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e0"
+  },
+  "total_spent": 3879.5,
+  "avg_spent": 62.57258064516129,
+  "transaction_count": 62,
+  "client_id": 1094
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e1"
+  },
+  "total_spent": 3878.64,
+  "avg_spent": 28.10608695652174,
+  "transaction_count": 138,
+  "client_id": 669
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e2"
+  },
+  "total_spent": 3875.93,
+  "avg_spent": 45.59917647058823,
+  "transaction_count": 85,
+  "client_id": 1137
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e3"
+  },
+  "total_spent": 3866.33,
+  "avg_spent": 41.57344086021505,
+  "transaction_count": 93,
+  "client_id": 293
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e4"
+  },
+  "total_spent": 3847.3,
+  "avg_spent": 54.96142857142858,
+  "transaction_count": 70,
+  "client_id": 807
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e5"
+  },
+  "total_spent": 3842.95,
+  "avg_spent": 24.793225806451613,
+  "transaction_count": 155,
+  "client_id": 209
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e6"
+  },
+  "total_spent": 3830.99,
+  "avg_spent": 29.24419847328244,
+  "transaction_count": 131,
+  "client_id": 1208
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e7"
+  },
+  "total_spent": 3827.43,
+  "avg_spent": 59.80359375,
+  "transaction_count": 64,
+  "client_id": 759
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e8"
+  },
+  "total_spent": 3825.84,
+  "avg_spent": 57.10208955223881,
+  "transaction_count": 67,
+  "client_id": 1615
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6e9"
+  },
+  "total_spent": 3816.58,
+  "avg_spent": 37.417450980392154,
+  "transaction_count": 102,
+  "client_id": 321
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ea"
+  },
+  "total_spent": 3815.75,
+  "avg_spent": 60.567460317460316,
+  "transaction_count": 63,
+  "client_id": 203
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6eb"
+  },
+  "total_spent": 3802.25,
+  "avg_spent": 40.884408602150536,
+  "transaction_count": 93,
+  "client_id": 1114
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ec"
+  },
+  "total_spent": 3785.58,
+  "avg_spent": 47.91873417721519,
+  "transaction_count": 79,
+  "client_id": 1448
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ed"
+  },
+  "total_spent": 3779.5099999999998,
+  "avg_spent": 21.84687861271676,
+  "transaction_count": 173,
+  "client_id": 573
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ee"
+  },
+  "total_spent": 3774.3,
+  "avg_spent": 33.40088495575221,
+  "transaction_count": 113,
+  "client_id": 1735
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ef"
+  },
+  "total_spent": 3766.43,
+  "avg_spent": 40.49924731182796,
+  "transaction_count": 93,
+  "client_id": 46
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f0"
+  },
+  "total_spent": 3761.91,
+  "avg_spent": 37.99909090909091,
+  "transaction_count": 99,
+  "client_id": 1225
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f1"
+  },
+  "total_spent": 3761.26,
+  "avg_spent": 40.88326086956522,
+  "transaction_count": 92,
+  "client_id": 1645
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f2"
+  },
+  "total_spent": 3755.53,
+  "avg_spent": 45.79914634146342,
+  "transaction_count": 82,
+  "client_id": 637
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f3"
+  },
+  "total_spent": 3735.09,
+  "avg_spent": 38.11316326530613,
+  "transaction_count": 98,
+  "client_id": 957
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f4"
+  },
+  "total_spent": 3730.45,
+  "avg_spent": 62.174166666666665,
+  "transaction_count": 60,
+  "client_id": 595
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f5"
+  },
+  "total_spent": 3723.49,
+  "avg_spent": 74.46979999999999,
+  "transaction_count": 50,
+  "client_id": 113
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f6"
+  },
+  "total_spent": 3708.09,
+  "avg_spent": 42.62172413793104,
+  "transaction_count": 87,
+  "client_id": 50
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f7"
+  },
+  "total_spent": 3701.0099999999998,
+  "avg_spent": 53.637826086956515,
+  "transaction_count": 69,
+  "client_id": 983
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f8"
+  },
+  "total_spent": 3686.63,
+  "avg_spent": 23.333101265822787,
+  "transaction_count": 158,
+  "client_id": 1755
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6f9"
+  },
+  "total_spent": 3675.13,
+  "avg_spent": 41.76284090909091,
+  "transaction_count": 88,
+  "client_id": 1757
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6fa"
+  },
+  "total_spent": 3671.5299999999997,
+  "avg_spent": 34.96695238095238,
+  "transaction_count": 105,
+  "client_id": 1579
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6fb"
+  },
+  "total_spent": 3669.65,
+  "avg_spent": 42.6703488372093,
+  "transaction_count": 86,
+  "client_id": 545
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6fc"
+  },
+  "total_spent": 3661.81,
+  "avg_spent": 35.20971153846154,
+  "transaction_count": 104,
+  "client_id": 218
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6fd"
+  },
+  "total_spent": 3655.89,
+  "avg_spent": 45.13444444444444,
+  "transaction_count": 81,
+  "client_id": 1076
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6fe"
+  },
+  "total_spent": 3653.85,
+  "avg_spent": 34.14813084112149,
+  "transaction_count": 107,
+  "client_id": 1106
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f6ff"
+  },
+  "total_spent": 3642.03,
+  "avg_spent": 42.34918604651163,
+  "transaction_count": 86,
+  "client_id": 1682
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f700"
+  },
+  "total_spent": 3641.71,
+  "avg_spent": 47.91723684210526,
+  "transaction_count": 76,
+  "client_id": 383
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f701"
+  },
+  "total_spent": 3641.17,
+  "avg_spent": 58.72854838709677,
+  "transaction_count": 62,
+  "client_id": 1082
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f702"
+  },
+  "total_spent": 3639.89,
+  "avg_spent": 39.56402173913043,
+  "transaction_count": 92,
+  "client_id": 1504
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f703"
+  },
+  "total_spent": 3634.11,
+  "avg_spent": 44.86555555555556,
+  "transaction_count": 81,
+  "client_id": 400
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f704"
+  },
+  "total_spent": 3632.39,
+  "avg_spent": 26.513795620437957,
+  "transaction_count": 137,
+  "client_id": 1250
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f705"
+  },
+  "total_spent": 3628.56,
+  "avg_spent": 88.50146341463415,
+  "transaction_count": 41,
+  "client_id": 1731
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f706"
+  },
+  "total_spent": 3624.68,
+  "avg_spent": 40.726741573033706,
+  "transaction_count": 89,
+  "client_id": 479
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f707"
+  },
+  "total_spent": 3622.9,
+  "avg_spent": 32.347321428571426,
+  "transaction_count": 112,
+  "client_id": 951
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f708"
+  },
+  "total_spent": 3620.47,
+  "avg_spent": 35.84623762376238,
+  "transaction_count": 101,
+  "client_id": 1642
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f709"
+  },
+  "total_spent": 3603.39,
+  "avg_spent": 61.07440677966102,
+  "transaction_count": 59,
+  "client_id": 1179
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f70a"
+  },
+  "total_spent": 3587.62,
+  "avg_spent": 31.47035087719298,
+  "transaction_count": 114,
+  "client_id": 1603
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f70b"
+  },
+  "total_spent": 3573.75,
+  "avg_spent": 39.708333333333336,
+  "transaction_count": 90,
+  "client_id": 1805
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f70c"
+  },
+  "total_spent": 3572.6,
+  "avg_spent": 39.69555555555556,
+  "transaction_count": 90,
+  "client_id": 1240
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f70d"
+  },
+  "total_spent": 3571.23,
+  "avg_spent": 41.04862068965517,
+  "transaction_count": 87,
+  "client_id": 1070
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f70e"
+  },
+  "total_spent": 3567.52,
+  "avg_spent": 21.886625766871166,
+  "transaction_count": 163,
+  "client_id": 55
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f70f"
+  },
+  "total_spent": 3564.74,
+  "avg_spent": 41.45046511627907,
+  "transaction_count": 86,
+  "client_id": 1088
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f710"
+  },
+  "total_spent": 3550.4,
+  "avg_spent": 34.807843137254906,
+  "transaction_count": 102,
+  "client_id": 287
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f711"
+  },
+  "total_spent": 3546.31,
+  "avg_spent": 34.767745098039214,
+  "transaction_count": 102,
+  "client_id": 747
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f712"
+  },
+  "total_spent": 3545.54,
+  "avg_spent": 28.82552845528455,
+  "transaction_count": 123,
+  "client_id": 1437
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f713"
+  },
+  "total_spent": 3538.8,
+  "avg_spent": 47.184000000000005,
+  "transaction_count": 75,
+  "client_id": 1128
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f714"
+  },
+  "total_spent": 3536.06,
+  "avg_spent": 72.16448979591837,
+  "transaction_count": 49,
+  "client_id": 939
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f715"
+  },
+  "total_spent": 3531,
+  "avg_spent": 69.23529411764706,
+  "transaction_count": 51,
+  "client_id": 334
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f716"
+  },
+  "total_spent": 3528.68,
+  "avg_spent": 39.648089887640445,
+  "transaction_count": 89,
+  "client_id": 1189
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f717"
+  },
+  "total_spent": 3522.58,
+  "avg_spent": 51.051884057971016,
+  "transaction_count": 69,
+  "client_id": 657
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f718"
+  },
+  "total_spent": 3521.94,
+  "avg_spent": 71.87632653061225,
+  "transaction_count": 49,
+  "client_id": 16
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f719"
+  },
+  "total_spent": 3518.48,
+  "avg_spent": 67.66307692307693,
+  "transaction_count": 52,
+  "client_id": 32
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f71a"
+  },
+  "total_spent": 3516.86,
+  "avg_spent": 34.144271844660196,
+  "transaction_count": 103,
+  "client_id": 1719
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f71b"
+  },
+  "total_spent": 3516.52,
+  "avg_spent": 29.550588235294118,
+  "transaction_count": 119,
+  "client_id": 946
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f71c"
+  },
+  "total_spent": 3514.22,
+  "avg_spent": 55.78126984126984,
+  "transaction_count": 63,
+  "client_id": 732
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f71d"
+  },
+  "total_spent": 3509.88,
+  "avg_spent": 40.812558139534886,
+  "transaction_count": 86,
+  "client_id": 520
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f71e"
+  },
+  "total_spent": 3504.99,
+  "avg_spent": 30.478173913043477,
+  "transaction_count": 115,
+  "client_id": 1909
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f71f"
+  },
+  "total_spent": 3502.61,
+  "avg_spent": 28.246854838709677,
+  "transaction_count": 124,
+  "client_id": 1228
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f720"
+  },
+  "total_spent": 3500.49,
+  "avg_spent": 27.56291338582677,
+  "transaction_count": 127,
+  "client_id": 20
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f721"
+  },
+  "total_spent": 3493.31,
+  "avg_spent": 40.152988505747125,
+  "transaction_count": 87,
+  "client_id": 1859
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f722"
+  },
+  "total_spent": 3493.14,
+  "avg_spent": 53.74061538461538,
+  "transaction_count": 65,
+  "client_id": 1560
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f723"
+  },
+  "total_spent": 3486.95,
+  "avg_spent": 41.02294117647059,
+  "transaction_count": 85,
+  "client_id": 843
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f724"
+  },
+  "total_spent": 3478.58,
+  "avg_spent": 41.91060240963856,
+  "transaction_count": 83,
+  "client_id": 1623
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f725"
+  },
+  "total_spent": 3474.92,
+  "avg_spent": 38.61022222222222,
+  "transaction_count": 90,
+  "client_id": 164
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f726"
+  },
+  "total_spent": 3468.25,
+  "avg_spent": 60.84649122807018,
+  "transaction_count": 57,
+  "client_id": 1514
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f727"
+  },
+  "total_spent": 3465.42,
+  "avg_spent": 55.89387096774194,
+  "transaction_count": 62,
+  "client_id": 1020
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f728"
+  },
+  "total_spent": 3460.34,
+  "avg_spent": 54.0678125,
+  "transaction_count": 64,
+  "client_id": 1518
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f729"
+  },
+  "total_spent": 3455.78,
+  "avg_spent": 51.578805970149254,
+  "transaction_count": 67,
+  "client_id": 917
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f72a"
+  },
+  "total_spent": 3450.57,
+  "avg_spent": 35.572886597938144,
+  "transaction_count": 97,
+  "client_id": 789
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f72b"
+  },
+  "total_spent": 3444.5,
+  "avg_spent": 61.50892857142857,
+  "transaction_count": 56,
+  "client_id": 398
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f72c"
+  },
+  "total_spent": 3442.33,
+  "avg_spent": 44.70558441558441,
+  "transaction_count": 77,
+  "client_id": 900
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f72d"
+  },
+  "total_spent": 3442.11,
+  "avg_spent": 40.495411764705885,
+  "transaction_count": 85,
+  "client_id": 1069
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f72e"
+  },
+  "total_spent": 3439.36,
+  "avg_spent": 42.992000000000004,
+  "transaction_count": 80,
+  "client_id": 1371
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f72f"
+  },
+  "total_spent": 3436.8,
+  "avg_spent": 22.912000000000003,
+  "transaction_count": 150,
+  "client_id": 126
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f730"
+  },
+  "total_spent": 3430.65,
+  "avg_spent": 55.333064516129035,
+  "transaction_count": 62,
+  "client_id": 393
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f731"
+  },
+  "total_spent": 3429.42,
+  "avg_spent": 23.016241610738255,
+  "transaction_count": 149,
+  "client_id": 106
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f732"
+  },
+  "total_spent": 3419.66,
+  "avg_spent": 26.508992248062015,
+  "transaction_count": 129,
+  "client_id": 584
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f733"
+  },
+  "total_spent": 3417.94,
+  "avg_spent": 42.72425,
+  "transaction_count": 80,
+  "client_id": 528
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f734"
+  },
+  "total_spent": 3405.86,
+  "avg_spent": 37.42703296703297,
+  "transaction_count": 91,
+  "client_id": 816
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f735"
+  },
+  "total_spent": 3404.38,
+  "avg_spent": 61.89781818181818,
+  "transaction_count": 55,
+  "client_id": 724
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f736"
+  },
+  "total_spent": 3403.85,
+  "avg_spent": 63.03425925925926,
+  "transaction_count": 54,
+  "client_id": 1204
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f737"
+  },
+  "total_spent": 3393.79,
+  "avg_spent": 26.106076923076923,
+  "transaction_count": 130,
+  "client_id": 59
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f738"
+  },
+  "total_spent": 3390.62,
+  "avg_spent": 62.78925925925926,
+  "transaction_count": 54,
+  "client_id": 79
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f739"
+  },
+  "total_spent": 3390.4900000000002,
+  "avg_spent": 21.458797468354433,
+  "transaction_count": 158,
+  "client_id": 1300
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f73a"
+  },
+  "total_spent": 3383.36,
+  "avg_spent": 41.26048780487805,
+  "transaction_count": 82,
+  "client_id": 249
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f73b"
+  },
+  "total_spent": 3377.21,
+  "avg_spent": 64.94634615384615,
+  "transaction_count": 52,
+  "client_id": 207
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f73c"
+  },
+  "total_spent": 3374,
+  "avg_spent": 48.89855072463768,
+  "transaction_count": 69,
+  "client_id": 1810
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f73d"
+  },
+  "total_spent": 3363.88,
+  "avg_spent": 32.659029126213596,
+  "transaction_count": 103,
+  "client_id": 1844
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f73e"
+  },
+  "total_spent": 3363.8,
+  "avg_spent": 61.160000000000004,
+  "transaction_count": 55,
+  "client_id": 791
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f73f"
+  },
+  "total_spent": 3358.72,
+  "avg_spent": 56.92745762711864,
+  "transaction_count": 59,
+  "client_id": 748
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f740"
+  },
+  "total_spent": 3357.86,
+  "avg_spent": 46.636944444444445,
+  "transaction_count": 72,
+  "client_id": 357
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f741"
+  },
+  "total_spent": 3356.77,
+  "avg_spent": 54.141451612903225,
+  "transaction_count": 62,
+  "client_id": 1710
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f742"
+  },
+  "total_spent": 3328.53,
+  "avg_spent": 35.03715789473684,
+  "transaction_count": 95,
+  "client_id": 1926
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f743"
+  },
+  "total_spent": 3324.05,
+  "avg_spent": 23.40880281690141,
+  "transaction_count": 142,
+  "client_id": 1141
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f744"
+  },
+  "total_spent": 3322.35,
+  "avg_spent": 25.36145038167939,
+  "transaction_count": 131,
+  "client_id": 1236
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f745"
+  },
+  "total_spent": 3316.88,
+  "avg_spent": 59.230000000000004,
+  "transaction_count": 56,
+  "client_id": 1879
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f746"
+  },
+  "total_spent": 3315.8,
+  "avg_spent": 48.05507246376812,
+  "transaction_count": 69,
+  "client_id": 1834
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f747"
+  },
+  "total_spent": 3311.68,
+  "avg_spent": 51.745,
+  "transaction_count": 64,
+  "client_id": 331
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f748"
+  },
+  "total_spent": 3310,
+  "avg_spent": 20.432098765432098,
+  "transaction_count": 162,
+  "client_id": 674
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f749"
+  },
+  "total_spent": 3300.95,
+  "avg_spent": 32.682673267326734,
+  "transaction_count": 101,
+  "client_id": 1248
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f74a"
+  },
+  "total_spent": 3299.93,
+  "avg_spent": 73.33177777777777,
+  "transaction_count": 45,
+  "client_id": 1163
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f74b"
+  },
+  "total_spent": 3297.6,
+  "avg_spent": 24.07007299270073,
+  "transaction_count": 137,
+  "client_id": 1357
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f74c"
+  },
+  "total_spent": 3296.0499999999997,
+  "avg_spent": 86.73815789473683,
+  "transaction_count": 38,
+  "client_id": 1975
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f74d"
+  },
+  "total_spent": 3294.58,
+  "avg_spent": 76.61813953488372,
+  "transaction_count": 43,
+  "client_id": 1820
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f74e"
+  },
+  "total_spent": 3289,
+  "avg_spent": 28.850877192982455,
+  "transaction_count": 114,
+  "client_id": 649
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f74f"
+  },
+  "total_spent": 3286.07,
+  "avg_spent": 35.71815217391305,
+  "transaction_count": 92,
+  "client_id": 327
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f750"
+  },
+  "total_spent": 3268.05,
+  "avg_spent": 50.27769230769231,
+  "transaction_count": 65,
+  "client_id": 650
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f751"
+  },
+  "total_spent": 3264.55,
+  "avg_spent": 69.45851063829788,
+  "transaction_count": 47,
+  "client_id": 216
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f752"
+  },
+  "total_spent": 3264.06,
+  "avg_spent": 44.10891891891892,
+  "transaction_count": 74,
+  "client_id": 543
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f753"
+  },
+  "total_spent": 3257.6,
+  "avg_spent": 35.7978021978022,
+  "transaction_count": 91,
+  "client_id": 447
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f754"
+  },
+  "total_spent": 3244.21,
+  "avg_spent": 21.773221476510066,
+  "transaction_count": 149,
+  "client_id": 1783
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f755"
+  },
+  "total_spent": 3224.68,
+  "avg_spent": 26.21691056910569,
+  "transaction_count": 123,
+  "client_id": 692
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f756"
+  },
+  "total_spent": 3223.92,
+  "avg_spent": 35.42769230769231,
+  "transaction_count": 91,
+  "client_id": 415
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f757"
+  },
+  "total_spent": 3223.52,
+  "avg_spent": 14.993116279069767,
+  "transaction_count": 215,
+  "client_id": 1985
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f758"
+  },
+  "total_spent": 3222.14,
+  "avg_spent": 53.70233333333333,
+  "transaction_count": 60,
+  "client_id": 1404
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f759"
+  },
+  "total_spent": 3205.58,
+  "avg_spent": 29.958691588785047,
+  "transaction_count": 107,
+  "client_id": 1618
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f75a"
+  },
+  "total_spent": 3205.06,
+  "avg_spent": 42.73413333333333,
+  "transaction_count": 75,
+  "client_id": 170
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f75b"
+  },
+  "total_spent": 3202.67,
+  "avg_spent": 48.52530303030303,
+  "transaction_count": 66,
+  "client_id": 1213
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f75c"
+  },
+  "total_spent": 3200.86,
+  "avg_spent": 30.7775,
+  "transaction_count": 104,
+  "client_id": 1531
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f75d"
+  },
+  "total_spent": 3199.65,
+  "avg_spent": 40.50189873417722,
+  "transaction_count": 79,
+  "client_id": 48
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f75e"
+  },
+  "total_spent": 3198.3,
+  "avg_spent": 21.610135135135135,
+  "transaction_count": 148,
+  "client_id": 211
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f75f"
+  },
+  "total_spent": 3175.07,
+  "avg_spent": 41.23467532467533,
+  "transaction_count": 77,
+  "client_id": 793
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f760"
+  },
+  "total_spent": 3171.5,
+  "avg_spent": 24.97244094488189,
+  "transaction_count": 127,
+  "client_id": 277
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f761"
+  },
+  "total_spent": 3166.42,
+  "avg_spent": 60.89269230769231,
+  "transaction_count": 52,
+  "client_id": 5
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f762"
+  },
+  "total_spent": 3165.44,
+  "avg_spent": 35.97090909090909,
+  "transaction_count": 88,
+  "client_id": 1633
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f763"
+  },
+  "total_spent": 3153.4900000000002,
+  "avg_spent": 76.91439024390245,
+  "transaction_count": 41,
+  "client_id": 1194
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f764"
+  },
+  "total_spent": 3151.92,
+  "avg_spent": 56.284285714285716,
+  "transaction_count": 56,
+  "client_id": 1598
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f765"
+  },
+  "total_spent": 3133.53,
+  "avg_spent": 18.99109090909091,
+  "transaction_count": 165,
+  "client_id": 1315
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f766"
+  },
+  "total_spent": 3128.2,
+  "avg_spent": 48.878125,
+  "transaction_count": 64,
+  "client_id": 395
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f767"
+  },
+  "total_spent": 3127.2,
+  "avg_spent": 51.2655737704918,
+  "transaction_count": 61,
+  "client_id": 1764
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f768"
+  },
+  "total_spent": 3125.48,
+  "avg_spent": 53.88758620689655,
+  "transaction_count": 58,
+  "client_id": 172
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f769"
+  },
+  "total_spent": 3122.71,
+  "avg_spent": 24.20705426356589,
+  "transaction_count": 129,
+  "client_id": 727
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f76a"
+  },
+  "total_spent": 3112.44,
+  "avg_spent": 35.7751724137931,
+  "transaction_count": 87,
+  "client_id": 63
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f76b"
+  },
+  "total_spent": 3111.45,
+  "avg_spent": 32.07680412371134,
+  "transaction_count": 97,
+  "client_id": 1488
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f76c"
+  },
+  "total_spent": 3096.71,
+  "avg_spent": 30.967100000000002,
+  "transaction_count": 100,
+  "client_id": 1594
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f76d"
+  },
+  "total_spent": 3091.24,
+  "avg_spent": 53.29724137931034,
+  "transaction_count": 58,
+  "client_id": 771
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f76e"
+  },
+  "total_spent": 3090.48,
+  "avg_spent": 44.789565217391306,
+  "transaction_count": 69,
+  "client_id": 773
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f76f"
+  },
+  "total_spent": 3085.15,
+  "avg_spent": 31.481122448979594,
+  "transaction_count": 98,
+  "client_id": 1763
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f770"
+  },
+  "total_spent": 3076.71,
+  "avg_spent": 66.885,
+  "transaction_count": 46,
+  "client_id": 1533
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f771"
+  },
+  "total_spent": 3070.02,
+  "avg_spent": 20.065490196078432,
+  "transaction_count": 153,
+  "client_id": 1461
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f772"
+  },
+  "total_spent": 3064.7,
+  "avg_spent": 37.8358024691358,
+  "transaction_count": 81,
+  "client_id": 601
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f773"
+  },
+  "total_spent": 3062.65,
+  "avg_spent": 45.038970588235294,
+  "transaction_count": 68,
+  "client_id": 1871
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f774"
+  },
+  "total_spent": 3040.2,
+  "avg_spent": 41.64657534246575,
+  "transaction_count": 73,
+  "client_id": 94
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f775"
+  },
+  "total_spent": 3034.42,
+  "avg_spent": 35.69905882352941,
+  "transaction_count": 85,
+  "client_id": 265
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f776"
+  },
+  "total_spent": 3025.44,
+  "avg_spent": 26.30817391304348,
+  "transaction_count": 115,
+  "client_id": 580
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f777"
+  },
+  "total_spent": 3004.66,
+  "avg_spent": 36.200722891566265,
+  "transaction_count": 83,
+  "client_id": 80
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f778"
+  },
+  "total_spent": 3001.0099999999998,
+  "avg_spent": 38.97415584415584,
+  "transaction_count": 77,
+  "client_id": 920
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f779"
+  },
+  "total_spent": 2987.4900000000002,
+  "avg_spent": 23.710238095238097,
+  "transaction_count": 126,
+  "client_id": 699
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f77a"
+  },
+  "total_spent": 2987.03,
+  "avg_spent": 36.876913580246914,
+  "transaction_count": 81,
+  "client_id": 1470
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f77b"
+  },
+  "total_spent": 2986.7400000000002,
+  "avg_spent": 32.82131868131869,
+  "transaction_count": 91,
+  "client_id": 547
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f77c"
+  },
+  "total_spent": 2963.6,
+  "avg_spent": 40.5972602739726,
+  "transaction_count": 73,
+  "client_id": 1791
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f77d"
+  },
+  "total_spent": 2962.86,
+  "avg_spent": 33.66886363636364,
+  "transaction_count": 88,
+  "client_id": 1251
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f77e"
+  },
+  "total_spent": 2960.16,
+  "avg_spent": 37.47037974683544,
+  "transaction_count": 79,
+  "client_id": 21
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f77f"
+  },
+  "total_spent": 2953.39,
+  "avg_spent": 32.45483516483517,
+  "transaction_count": 91,
+  "client_id": 561
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f780"
+  },
+  "total_spent": 2944,
+  "avg_spent": 34.63529411764706,
+  "transaction_count": 85,
+  "client_id": 1054
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f781"
+  },
+  "total_spent": 2940.08,
+  "avg_spent": 39.20106666666666,
+  "transaction_count": 75,
+  "client_id": 1507
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f782"
+  },
+  "total_spent": 2939.8,
+  "avg_spent": 28.821568627450983,
+  "transaction_count": 102,
+  "client_id": 343
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f783"
+  },
+  "total_spent": 2939,
+  "avg_spent": 66.79545454545455,
+  "transaction_count": 44,
+  "client_id": 589
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f784"
+  },
+  "total_spent": 2935.12,
+  "avg_spent": 48.91866666666667,
+  "transaction_count": 60,
+  "client_id": 1353
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f785"
+  },
+  "total_spent": 2929.2,
+  "avg_spent": 37.55384615384615,
+  "transaction_count": 78,
+  "client_id": 1542
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f786"
+  },
+  "total_spent": 2928.19,
+  "avg_spent": 24.401583333333335,
+  "transaction_count": 120,
+  "client_id": 1030
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f787"
+  },
+  "total_spent": 2924.89,
+  "avg_spent": 50.42913793103448,
+  "transaction_count": 58,
+  "client_id": 1060
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f788"
+  },
+  "total_spent": 2923.92,
+  "avg_spent": 33.608275862068965,
+  "transaction_count": 87,
+  "client_id": 714
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f789"
+  },
+  "total_spent": 2920.5299999999997,
+  "avg_spent": 45.633281249999996,
+  "transaction_count": 64,
+  "client_id": 451
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f78a"
+  },
+  "total_spent": 2916.97,
+  "avg_spent": 39.95849315068493,
+  "transaction_count": 73,
+  "client_id": 1523
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f78b"
+  },
+  "total_spent": 2898.54,
+  "avg_spent": 33.31655172413793,
+  "transaction_count": 87,
+  "client_id": 1846
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f78c"
+  },
+  "total_spent": 2889.65,
+  "avg_spent": 56.65980392156863,
+  "transaction_count": 51,
+  "client_id": 1728
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f78d"
+  },
+  "total_spent": 2887.08,
+  "avg_spent": 36.5453164556962,
+  "transaction_count": 79,
+  "client_id": 827
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f78e"
+  },
+  "total_spent": 2876.71,
+  "avg_spent": 54.27754716981132,
+  "transaction_count": 53,
+  "client_id": 1268
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f78f"
+  },
+  "total_spent": 2871.21,
+  "avg_spent": 99.00724137931034,
+  "transaction_count": 29,
+  "client_id": 120
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f790"
+  },
+  "total_spent": 2868.67,
+  "avg_spent": 77.53162162162162,
+  "transaction_count": 37,
+  "client_id": 107
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f791"
+  },
+  "total_spent": 2866.23,
+  "avg_spent": 28.662300000000002,
+  "transaction_count": 100,
+  "client_id": 212
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f792"
+  },
+  "total_spent": 2865.22,
+  "avg_spent": 40.931714285714285,
+  "transaction_count": 70,
+  "client_id": 345
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f793"
+  },
+  "total_spent": 2860.4,
+  "avg_spent": 34.46265060240964,
+  "transaction_count": 83,
+  "client_id": 1660
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f794"
+  },
+  "total_spent": 2853.35,
+  "avg_spent": 45.29126984126984,
+  "transaction_count": 63,
+  "client_id": 774
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f795"
+  },
+  "total_spent": 2823.94,
+  "avg_spent": 65.67302325581396,
+  "transaction_count": 43,
+  "client_id": 1029
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f796"
+  },
+  "total_spent": 2815.51,
+  "avg_spent": 39.104305555555555,
+  "transaction_count": 72,
+  "client_id": 628
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f797"
+  },
+  "total_spent": 2809.97,
+  "avg_spent": 24.016837606837605,
+  "transaction_count": 117,
+  "client_id": 723
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f798"
+  },
+  "total_spent": 2804.04,
+  "avg_spent": 54.98117647058823,
+  "transaction_count": 51,
+  "client_id": 1482
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f799"
+  },
+  "total_spent": 2791.86,
+  "avg_spent": 32.09034482758621,
+  "transaction_count": 87,
+  "client_id": 1629
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f79a"
+  },
+  "total_spent": 2782,
+  "avg_spent": 89.74193548387096,
+  "transaction_count": 31,
+  "client_id": 491
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f79b"
+  },
+  "total_spent": 2757.97,
+  "avg_spent": 29.977934782608692,
+  "transaction_count": 92,
+  "client_id": 822
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f79c"
+  },
+  "total_spent": 2757.62,
+  "avg_spent": 27.03549019607843,
+  "transaction_count": 102,
+  "client_id": 849
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f79d"
+  },
+  "total_spent": 2756.19,
+  "avg_spent": 30.624333333333333,
+  "transaction_count": 90,
+  "client_id": 898
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f79e"
+  },
+  "total_spent": 2754.88,
+  "avg_spent": 32.033488372093025,
+  "transaction_count": 86,
+  "client_id": 69
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f79f"
+  },
+  "total_spent": 2748.86,
+  "avg_spent": 54.9772,
+  "transaction_count": 50,
+  "client_id": 317
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a0"
+  },
+  "total_spent": 2736.83,
+  "avg_spent": 54.736599999999996,
+  "transaction_count": 50,
+  "client_id": 198
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a1"
+  },
+  "total_spent": 2734.23,
+  "avg_spent": 35.50948051948052,
+  "transaction_count": 77,
+  "client_id": 125
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a2"
+  },
+  "total_spent": 2731,
+  "avg_spent": 26.00952380952381,
+  "transaction_count": 105,
+  "client_id": 1367
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a3"
+  },
+  "total_spent": 2728.98,
+  "avg_spent": 32.10564705882353,
+  "transaction_count": 85,
+  "client_id": 1910
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a4"
+  },
+  "total_spent": 2728.03,
+  "avg_spent": 42.62546875,
+  "transaction_count": 64,
+  "client_id": 583
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a5"
+  },
+  "total_spent": 2727.55,
+  "avg_spent": 33.67345679012346,
+  "transaction_count": 81,
+  "client_id": 1254
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a6"
+  },
+  "total_spent": 2723.67,
+  "avg_spent": 49.52127272727273,
+  "transaction_count": 55,
+  "client_id": 244
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a7"
+  },
+  "total_spent": 2714.32,
+  "avg_spent": 33.101463414634146,
+  "transaction_count": 82,
+  "client_id": 819
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a8"
+  },
+  "total_spent": 2709.46,
+  "avg_spent": 19.777080291970805,
+  "transaction_count": 137,
+  "client_id": 655
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7a9"
+  },
+  "total_spent": 2704.12,
+  "avg_spent": 34.66820512820512,
+  "transaction_count": 78,
+  "client_id": 519
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7aa"
+  },
+  "total_spent": 2700.23,
+  "avg_spent": 40.91257575757576,
+  "transaction_count": 66,
+  "client_id": 980
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ab"
+  },
+  "total_spent": 2699.46,
+  "avg_spent": 53.989200000000004,
+  "transaction_count": 50,
+  "client_id": 153
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ac"
+  },
+  "total_spent": 2696.82,
+  "avg_spent": 35.48447368421053,
+  "transaction_count": 76,
+  "client_id": 1546
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ad"
+  },
+  "total_spent": 2691.96,
+  "avg_spent": 23.408347826086956,
+  "transaction_count": 115,
+  "client_id": 977
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ae"
+  },
+  "total_spent": 2690.96,
+  "avg_spent": 34.49948717948718,
+  "transaction_count": 78,
+  "client_id": 1816
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7af"
+  },
+  "total_spent": 2685.87,
+  "avg_spent": 24.197027027027026,
+  "transaction_count": 111,
+  "client_id": 1972
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b0"
+  },
+  "total_spent": 2684.57,
+  "avg_spent": 47.938750000000006,
+  "transaction_count": 56,
+  "client_id": 1980
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b1"
+  },
+  "total_spent": 2671.45,
+  "avg_spent": 33.393125,
+  "transaction_count": 80,
+  "client_id": 581
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b2"
+  },
+  "total_spent": 2668.15,
+  "avg_spent": 24.037387387387387,
+  "transaction_count": 111,
+  "client_id": 1509
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b3"
+  },
+  "total_spent": 2657.13,
+  "avg_spent": 16.402037037037037,
+  "transaction_count": 162,
+  "client_id": 1008
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b4"
+  },
+  "total_spent": 2652.5,
+  "avg_spent": 31.205882352941178,
+  "transaction_count": 85,
+  "client_id": 1858
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b5"
+  },
+  "total_spent": 2651.54,
+  "avg_spent": 57.64217391304348,
+  "transaction_count": 46,
+  "client_id": 135
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b6"
+  },
+  "total_spent": 2647.21,
+  "avg_spent": 48.13109090909091,
+  "transaction_count": 55,
+  "client_id": 1203
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b7"
+  },
+  "total_spent": 2642.38,
+  "avg_spent": 22.779137931034484,
+  "transaction_count": 116,
+  "client_id": 721
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b8"
+  },
+  "total_spent": 2635.53,
+  "avg_spent": 54.90687500000001,
+  "transaction_count": 48,
+  "client_id": 1521
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7b9"
+  },
+  "total_spent": 2635.49,
+  "avg_spent": 37.64985714285714,
+  "transaction_count": 70,
+  "client_id": 837
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ba"
+  },
+  "total_spent": 2629.05,
+  "avg_spent": 53.65408163265307,
+  "transaction_count": 49,
+  "client_id": 311
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7bb"
+  },
+  "total_spent": 2627.79,
+  "avg_spent": 40.42753846153846,
+  "transaction_count": 65,
+  "client_id": 990
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7bc"
+  },
+  "total_spent": 2606.56,
+  "avg_spent": 25.807524752475246,
+  "transaction_count": 101,
+  "client_id": 1439
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7bd"
+  },
+  "total_spent": 2599.15,
+  "avg_spent": 21.841596638655464,
+  "transaction_count": 119,
+  "client_id": 1445
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7be"
+  },
+  "total_spent": 2593.96,
+  "avg_spent": 46.32071428571429,
+  "transaction_count": 56,
+  "client_id": 1669
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7bf"
+  },
+  "total_spent": 2593.41,
+  "avg_spent": 24.936634615384612,
+  "transaction_count": 104,
+  "client_id": 291
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c0"
+  },
+  "total_spent": 2582.9,
+  "avg_spent": 22.65701754385965,
+  "transaction_count": 114,
+  "client_id": 515
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c1"
+  },
+  "total_spent": 2580.68,
+  "avg_spent": 44.494482758620684,
+  "transaction_count": 58,
+  "client_id": 132
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c2"
+  },
+  "total_spent": 2575.17,
+  "avg_spent": 27.69,
+  "transaction_count": 93,
+  "client_id": 542
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c3"
+  },
+  "total_spent": 2568.15,
+  "avg_spent": 40.76428571428571,
+  "transaction_count": 63,
+  "client_id": 1299
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c4"
+  },
+  "total_spent": 2559.29,
+  "avg_spent": 65.62282051282051,
+  "transaction_count": 39,
+  "client_id": 1002
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c5"
+  },
+  "total_spent": 2556.59,
+  "avg_spent": 45.65339285714286,
+  "transaction_count": 56,
+  "client_id": 1095
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c6"
+  },
+  "total_spent": 2555.4900000000002,
+  "avg_spent": 20.443920000000002,
+  "transaction_count": 125,
+  "client_id": 986
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c7"
+  },
+  "total_spent": 2549.36,
+  "avg_spent": 68.90162162162163,
+  "transaction_count": 37,
+  "client_id": 1876
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c8"
+  },
+  "total_spent": 2533.8,
+  "avg_spent": 49.682352941176475,
+  "transaction_count": 51,
+  "client_id": 1945
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7c9"
+  },
+  "total_spent": 2517.06,
+  "avg_spent": 51.36857142857143,
+  "transaction_count": 49,
+  "client_id": 391
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ca"
+  },
+  "total_spent": 2515.61,
+  "avg_spent": 49.325686274509806,
+  "transaction_count": 51,
+  "client_id": 1577
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7cb"
+  },
+  "total_spent": 2514.9900000000002,
+  "avg_spent": 16.993175675675676,
+  "transaction_count": 148,
+  "client_id": 1262
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7cc"
+  },
+  "total_spent": 2505.36,
+  "avg_spent": 59.651428571428575,
+  "transaction_count": 42,
+  "client_id": 1973
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7cd"
+  },
+  "total_spent": 2504.95,
+  "avg_spent": 33.850675675675674,
+  "transaction_count": 74,
+  "client_id": 1503
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ce"
+  },
+  "total_spent": 2504.15,
+  "avg_spent": 41.73583333333333,
+  "transaction_count": 60,
+  "client_id": 1332
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7cf"
+  },
+  "total_spent": 2502.16,
+  "avg_spent": 47.210566037735845,
+  "transaction_count": 53,
+  "client_id": 743
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d0"
+  },
+  "total_spent": 2491.7,
+  "avg_spent": 36.64264705882353,
+  "transaction_count": 68,
+  "client_id": 180
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d1"
+  },
+  "total_spent": 2488.01,
+  "avg_spent": 28.597816091954027,
+  "transaction_count": 87,
+  "client_id": 1899
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d2"
+  },
+  "total_spent": 2487.77,
+  "avg_spent": 38.273384615384614,
+  "transaction_count": 65,
+  "client_id": 473
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d3"
+  },
+  "total_spent": 2483.48,
+  "avg_spent": 42.81862068965517,
+  "transaction_count": 58,
+  "client_id": 750
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d4"
+  },
+  "total_spent": 2480.95,
+  "avg_spent": 27.87584269662921,
+  "transaction_count": 89,
+  "client_id": 351
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d5"
+  },
+  "total_spent": 2475.09,
+  "avg_spent": 77.3465625,
+  "transaction_count": 32,
+  "client_id": 299
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d6"
+  },
+  "total_spent": 2473.27,
+  "avg_spent": 60.32365853658536,
+  "transaction_count": 41,
+  "client_id": 1266
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d7"
+  },
+  "total_spent": 2470.6,
+  "avg_spent": 24.955555555555556,
+  "transaction_count": 99,
+  "client_id": 994
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d8"
+  },
+  "total_spent": 2451.4,
+  "avg_spent": 38.303125,
+  "transaction_count": 64,
+  "client_id": 882
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7d9"
+  },
+  "total_spent": 2437.42,
+  "avg_spent": 20.482521008403364,
+  "transaction_count": 119,
+  "client_id": 503
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7da"
+  },
+  "total_spent": 2426.69,
+  "avg_spent": 34.667,
+  "transaction_count": 70,
+  "client_id": 679
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7db"
+  },
+  "total_spent": 2423.32,
+  "avg_spent": 44.876296296296296,
+  "transaction_count": 54,
+  "client_id": 361
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7dc"
+  },
+  "total_spent": 2417.97,
+  "avg_spent": 36.63590909090909,
+  "transaction_count": 66,
+  "client_id": 145
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7dd"
+  },
+  "total_spent": 2409.45,
+  "avg_spent": 172.10357142857143,
+  "transaction_count": 14,
+  "client_id": 1510
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7de"
+  },
+  "total_spent": 2388.37,
+  "avg_spent": 62.85184210526315,
+  "transaction_count": 38,
+  "client_id": 1558
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7df"
+  },
+  "total_spent": 2385.7599999999998,
+  "avg_spent": 39.11081967213114,
+  "transaction_count": 61,
+  "client_id": 483
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e0"
+  },
+  "total_spent": 2380.95,
+  "avg_spent": 36.629999999999995,
+  "transaction_count": 65,
+  "client_id": 248
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e1"
+  },
+  "total_spent": 2379.5,
+  "avg_spent": 55.33720930232558,
+  "transaction_count": 43,
+  "client_id": 844
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e2"
+  },
+  "total_spent": 2379.4900000000002,
+  "avg_spent": 50.62744680851064,
+  "transaction_count": 47,
+  "client_id": 348
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e3"
+  },
+  "total_spent": 2376.26,
+  "avg_spent": 22.41754716981132,
+  "transaction_count": 106,
+  "client_id": 726
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e4"
+  },
+  "total_spent": 2356.02,
+  "avg_spent": 49.08375,
+  "transaction_count": 48,
+  "client_id": 794
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e5"
+  },
+  "total_spent": 2344.25,
+  "avg_spent": 28.24397590361446,
+  "transaction_count": 83,
+  "client_id": 140
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e6"
+  },
+  "total_spent": 2343.85,
+  "avg_spent": 33.96884057971015,
+  "transaction_count": 69,
+  "client_id": 859
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e7"
+  },
+  "total_spent": 2324.94,
+  "avg_spent": 23.968453608247422,
+  "transaction_count": 97,
+  "client_id": 855
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e8"
+  },
+  "total_spent": 2323.91,
+  "avg_spent": 38.09688524590164,
+  "transaction_count": 61,
+  "client_id": 184
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7e9"
+  },
+  "total_spent": 2318.32,
+  "avg_spent": 34.09294117647059,
+  "transaction_count": 68,
+  "client_id": 783
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ea"
+  },
+  "total_spent": 2315.71,
+  "avg_spent": 22.054380952380953,
+  "transaction_count": 105,
+  "client_id": 1940
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7eb"
+  },
+  "total_spent": 2312.75,
+  "avg_spent": 30.43092105263158,
+  "transaction_count": 76,
+  "client_id": 1317
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ec"
+  },
+  "total_spent": 2311.35,
+  "avg_spent": 33.49782608695652,
+  "transaction_count": 69,
+  "client_id": 42
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ed"
+  },
+  "total_spent": 2296.66,
+  "avg_spent": 41.75745454545454,
+  "transaction_count": 55,
+  "client_id": 3
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ee"
+  },
+  "total_spent": 2292.21,
+  "avg_spent": 39.52086206896552,
+  "transaction_count": 58,
+  "client_id": 1709
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ef"
+  },
+  "total_spent": 2289.82,
+  "avg_spent": 52.04136363636364,
+  "transaction_count": 44,
+  "client_id": 1360
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f0"
+  },
+  "total_spent": 2284.7,
+  "avg_spent": 14.645512820512819,
+  "transaction_count": 156,
+  "client_id": 758
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f1"
+  },
+  "total_spent": 2277.84,
+  "avg_spent": 42.978113207547175,
+  "transaction_count": 53,
+  "client_id": 1479
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f2"
+  },
+  "total_spent": 2275.62,
+  "avg_spent": 32.05098591549296,
+  "transaction_count": 71,
+  "client_id": 1009
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f3"
+  },
+  "total_spent": 2255.88,
+  "avg_spent": 57.84307692307693,
+  "transaction_count": 39,
+  "client_id": 14
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f4"
+  },
+  "total_spent": 2243.41,
+  "avg_spent": 40.06089285714285,
+  "transaction_count": 56,
+  "client_id": 636
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f5"
+  },
+  "total_spent": 2240.11,
+  "avg_spent": 124.45055555555557,
+  "transaction_count": 18,
+  "client_id": 1478
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f6"
+  },
+  "total_spent": 2222.15,
+  "avg_spent": 42.73365384615385,
+  "transaction_count": 52,
+  "client_id": 642
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f7"
+  },
+  "total_spent": 2214.9,
+  "avg_spent": 37.5406779661017,
+  "transaction_count": 59,
+  "client_id": 1785
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f8"
+  },
+  "total_spent": 2212.37,
+  "avg_spent": 31.605285714285714,
+  "transaction_count": 70,
+  "client_id": 762
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7f9"
+  },
+  "total_spent": 2210.43,
+  "avg_spent": 29.084605263157894,
+  "transaction_count": 76,
+  "client_id": 282
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7fa"
+  },
+  "total_spent": 2193.64,
+  "avg_spent": 21.50627450980392,
+  "transaction_count": 102,
+  "client_id": 734
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7fb"
+  },
+  "total_spent": 2178.97,
+  "avg_spent": 22.93652631578947,
+  "transaction_count": 95,
+  "client_id": 1636
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7fc"
+  },
+  "total_spent": 2159.05,
+  "avg_spent": 29.576027397260276,
+  "transaction_count": 73,
+  "client_id": 370
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7fd"
+  },
+  "total_spent": 2153.56,
+  "avg_spent": 24.753563218390806,
+  "transaction_count": 87,
+  "client_id": 1958
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7fe"
+  },
+  "total_spent": 2135.68,
+  "avg_spent": 15.475942028985505,
+  "transaction_count": 138,
+  "client_id": 1634
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f7ff"
+  },
+  "total_spent": 2117.34,
+  "avg_spent": 19.248545454545457,
+  "transaction_count": 110,
+  "client_id": 387
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f800"
+  },
+  "total_spent": 2115.9,
+  "avg_spent": 25.49277108433735,
+  "transaction_count": 83,
+  "client_id": 1087
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f801"
+  },
+  "total_spent": 2107.67,
+  "avg_spent": 60.219142857142856,
+  "transaction_count": 35,
+  "client_id": 1187
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f802"
+  },
+  "total_spent": 2104.92,
+  "avg_spent": 25.986666666666668,
+  "transaction_count": 81,
+  "client_id": 609
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f803"
+  },
+  "total_spent": 2083.69,
+  "avg_spent": 28.543698630136987,
+  "transaction_count": 73,
+  "client_id": 901
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f804"
+  },
+  "total_spent": 2075.66,
+  "avg_spent": 29.65228571428571,
+  "transaction_count": 70,
+  "client_id": 621
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f805"
+  },
+  "total_spent": 2060.85,
+  "avg_spent": 31.224999999999998,
+  "transaction_count": 66,
+  "client_id": 1198
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f806"
+  },
+  "total_spent": 2053.57,
+  "avg_spent": 29.761884057971017,
+  "transaction_count": 69,
+  "client_id": 1956
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f807"
+  },
+  "total_spent": 2051.06,
+  "avg_spent": 14.650428571428572,
+  "transaction_count": 140,
+  "client_id": 530
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f808"
+  },
+  "total_spent": 2042.62,
+  "avg_spent": 17.917719298245615,
+  "transaction_count": 114,
+  "client_id": 803
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f809"
+  },
+  "total_spent": 2037.26,
+  "avg_spent": 13.953835616438356,
+  "transaction_count": 146,
+  "client_id": 1881
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f80a"
+  },
+  "total_spent": 2034.97,
+  "avg_spent": 113.05388888888889,
+  "transaction_count": 18,
+  "client_id": 1552
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f80b"
+  },
+  "total_spent": 2007.48,
+  "avg_spent": 42.71234042553191,
+  "transaction_count": 47,
+  "client_id": 1674
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f80c"
+  },
+  "total_spent": 1994.34,
+  "avg_spent": 33.80237288135593,
+  "transaction_count": 59,
+  "client_id": 1
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f80d"
+  },
+  "total_spent": 1986.92,
+  "avg_spent": 24.529876543209877,
+  "transaction_count": 81,
+  "client_id": 1853
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f80e"
+  },
+  "total_spent": 1976.71,
+  "avg_spent": 30.88609375,
+  "transaction_count": 64,
+  "client_id": 1562
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f80f"
+  },
+  "total_spent": 1971.22,
+  "avg_spent": 29.421194029850746,
+  "transaction_count": 67,
+  "client_id": 879
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f810"
+  },
+  "total_spent": 1970.8,
+  "avg_spent": 33.40338983050847,
+  "transaction_count": 59,
+  "client_id": 1702
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f811"
+  },
+  "total_spent": 1969.26,
+  "avg_spent": 41.02625,
+  "transaction_count": 48,
+  "client_id": 1557
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f812"
+  },
+  "total_spent": 1960.91,
+  "avg_spent": 22.801279069767443,
+  "transaction_count": 86,
+  "client_id": 40
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f813"
+  },
+  "total_spent": 1955.91,
+  "avg_spent": 18.806826923076922,
+  "transaction_count": 104,
+  "client_id": 1138
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f814"
+  },
+  "total_spent": 1949.08,
+  "avg_spent": 25.98773333333333,
+  "transaction_count": 75,
+  "client_id": 465
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f815"
+  },
+  "total_spent": 1945.3700000000001,
+  "avg_spent": 47.44804878048781,
+  "transaction_count": 41,
+  "client_id": 875
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f816"
+  },
+  "total_spent": 1934.04,
+  "avg_spent": 16.117,
+  "transaction_count": 120,
+  "client_id": 375
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f817"
+  },
+  "total_spent": 1922.57,
+  "avg_spent": 35.60314814814814,
+  "transaction_count": 54,
+  "client_id": 1473
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f818"
+  },
+  "total_spent": 1919.48,
+  "avg_spent": 50.51263157894737,
+  "transaction_count": 38,
+  "client_id": 755
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f819"
+  },
+  "total_spent": 1909.68,
+  "avg_spent": 50.25473684210527,
+  "transaction_count": 38,
+  "client_id": 103
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f81a"
+  },
+  "total_spent": 1905.33,
+  "avg_spent": 65.70103448275862,
+  "transaction_count": 29,
+  "client_id": 225
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f81b"
+  },
+  "total_spent": 1895.34,
+  "avg_spent": 20.38,
+  "transaction_count": 93,
+  "client_id": 1455
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f81c"
+  },
+  "total_spent": 1893.32,
+  "avg_spent": 23.6665,
+  "transaction_count": 80,
+  "client_id": 1646
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f81d"
+  },
+  "total_spent": 1888.71,
+  "avg_spent": 34.97611111111111,
+  "transaction_count": 54,
+  "client_id": 821
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f81e"
+  },
+  "total_spent": 1879.57,
+  "avg_spent": 72.29115384615385,
+  "transaction_count": 26,
+  "client_id": 328
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f81f"
+  },
+  "total_spent": 1877.21,
+  "avg_spent": 20.18505376344086,
+  "transaction_count": 93,
+  "client_id": 1413
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f820"
+  },
+  "total_spent": 1869.62,
+  "avg_spent": 23.37025,
+  "transaction_count": 80,
+  "client_id": 1700
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f821"
+  },
+  "total_spent": 1861.96,
+  "avg_spent": 46.549,
+  "transaction_count": 40,
+  "client_id": 1434
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f822"
+  },
+  "total_spent": 1854.04,
+  "avg_spent": 28.09151515151515,
+  "transaction_count": 66,
+  "client_id": 230
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f823"
+  },
+  "total_spent": 1846.76,
+  "avg_spent": 25.649444444444445,
+  "transaction_count": 72,
+  "client_id": 1564
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f824"
+  },
+  "total_spent": 1826.32,
+  "avg_spent": 44.544390243902434,
+  "transaction_count": 41,
+  "client_id": 720
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f825"
+  },
+  "total_spent": 1822.19,
+  "avg_spent": 41.41340909090909,
+  "transaction_count": 44,
+  "client_id": 1766
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f826"
+  },
+  "total_spent": 1814.6399999999999,
+  "avg_spent": 51.84685714285714,
+  "transaction_count": 35,
+  "client_id": 201
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f827"
+  },
+  "total_spent": 1799.95,
+  "avg_spent": 26.086231884057973,
+  "transaction_count": 69,
+  "client_id": 155
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f828"
+  },
+  "total_spent": 1785.56,
+  "avg_spent": 16.086126126126125,
+  "transaction_count": 111,
+  "client_id": 1234
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f829"
+  },
+  "total_spent": 1784.75,
+  "avg_spent": 39.66111111111111,
+  "transaction_count": 45,
+  "client_id": 410
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f82a"
+  },
+  "total_spent": 1764.3899999999999,
+  "avg_spent": 33.93057692307692,
+  "transaction_count": 52,
+  "client_id": 1781
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f82b"
+  },
+  "total_spent": 1733.42,
+  "avg_spent": 29.380000000000003,
+  "transaction_count": 59,
+  "client_id": 219
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f82c"
+  },
+  "total_spent": 1714.3899999999999,
+  "avg_spent": 23.81097222222222,
+  "transaction_count": 72,
+  "client_id": 1508
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f82d"
+  },
+  "total_spent": 1702.62,
+  "avg_spent": 26.6034375,
+  "transaction_count": 64,
+  "client_id": 1723
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f82e"
+  },
+  "total_spent": 1702.61,
+  "avg_spent": 28.85779661016949,
+  "transaction_count": 59,
+  "client_id": 851
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f82f"
+  },
+  "total_spent": 1690.92,
+  "avg_spent": 36.75913043478261,
+  "transaction_count": 46,
+  "client_id": 1808
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f830"
+  },
+  "total_spent": 1645.44,
+  "avg_spent": 43.30105263157895,
+  "transaction_count": 38,
+  "client_id": 1684
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f831"
+  },
+  "total_spent": 1635.04,
+  "avg_spent": 31.443076923076923,
+  "transaction_count": 52,
+  "client_id": 618
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f832"
+  },
+  "total_spent": 1593.85,
+  "avg_spent": 19.923125,
+  "transaction_count": 80,
+  "client_id": 240
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f833"
+  },
+  "total_spent": 1590.36,
+  "avg_spent": 21.2048,
+  "transaction_count": 75,
+  "client_id": 65
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f834"
+  },
+  "total_spent": 1576.21,
+  "avg_spent": 65.67541666666666,
+  "transaction_count": 24,
+  "client_id": 1685
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f835"
+  },
+  "total_spent": 1575.7,
+  "avg_spent": 25.414516129032258,
+  "transaction_count": 62,
+  "client_id": 1123
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f836"
+  },
+  "total_spent": 1567.75,
+  "avg_spent": 43.548611111111114,
+  "transaction_count": 36,
+  "client_id": 438
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f837"
+  },
+  "total_spent": 1564.43,
+  "avg_spent": 46.01264705882353,
+  "transaction_count": 34,
+  "client_id": 1905
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f838"
+  },
+  "total_spent": 1529.53,
+  "avg_spent": 22.493088235294117,
+  "transaction_count": 68,
+  "client_id": 1583
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f839"
+  },
+  "total_spent": 1514.8,
+  "avg_spent": 19.42051282051282,
+  "transaction_count": 78,
+  "client_id": 648
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f83a"
+  },
+  "total_spent": 1473.22,
+  "avg_spent": 34.26093023255814,
+  "transaction_count": 43,
+  "client_id": 1744
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f83b"
+  },
+  "total_spent": 1468.3799999999999,
+  "avg_spent": 39.685945945945946,
+  "transaction_count": 37,
+  "client_id": 1074
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f83c"
+  },
+  "total_spent": 1454.82,
+  "avg_spent": 12.328983050847457,
+  "transaction_count": 118,
+  "client_id": 885
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f83d"
+  },
+  "total_spent": 1449.75,
+  "avg_spent": 27.879807692307693,
+  "transaction_count": 52,
+  "client_id": 1619
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f83e"
+  },
+  "total_spent": 1442.15,
+  "avg_spent": 49.72931034482759,
+  "transaction_count": 29,
+  "client_id": 913
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f83f"
+  },
+  "total_spent": 1433.54,
+  "avg_spent": 1433.54,
+  "transaction_count": 1,
+  "client_id": 1442
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f840"
+  },
+  "total_spent": 1429.71,
+  "avg_spent": 51.06107142857143,
+  "transaction_count": 28,
+  "client_id": 374
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f841"
+  },
+  "total_spent": 1390.31,
+  "avg_spent": 22.068412698412697,
+  "transaction_count": 63,
+  "client_id": 397
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f842"
+  },
+  "total_spent": 1388.19,
+  "avg_spent": 21.35676923076923,
+  "transaction_count": 65,
+  "client_id": 772
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f843"
+  },
+  "total_spent": 1374.81,
+  "avg_spent": 29.25127659574468,
+  "transaction_count": 47,
+  "client_id": 45
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f844"
+  },
+  "total_spent": 1374.11,
+  "avg_spent": 11.845775862068965,
+  "transaction_count": 116,
+  "client_id": 1202
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f845"
+  },
+  "total_spent": 1367.65,
+  "avg_spent": 35.06794871794872,
+  "transaction_count": 39,
+  "client_id": 869
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f846"
+  },
+  "total_spent": 1338.56,
+  "avg_spent": 39.36941176470588,
+  "transaction_count": 34,
+  "client_id": 1281
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f847"
+  },
+  "total_spent": 1336.87,
+  "avg_spent": 17.139358974358974,
+  "transaction_count": 78,
+  "client_id": 1826
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f848"
+  },
+  "total_spent": 1334.5,
+  "avg_spent": 47.660714285714285,
+  "transaction_count": 28,
+  "client_id": 1749
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f849"
+  },
+  "total_spent": 1320.29,
+  "avg_spent": 17.146623376623378,
+  "transaction_count": 77,
+  "client_id": 1406
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f84a"
+  },
+  "total_spent": 1263.34,
+  "avg_spent": 22.559642857142855,
+  "transaction_count": 56,
+  "client_id": 1153
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f84b"
+  },
+  "total_spent": 1176.65,
+  "avg_spent": 8.171180555555557,
+  "transaction_count": 144,
+  "client_id": 1428
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f84c"
+  },
+  "total_spent": 1143.7,
+  "avg_spent": 8.865891472868217,
+  "transaction_count": 129,
+  "client_id": 1348
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f84d"
+  },
+  "total_spent": 1130.16,
+  "avg_spent": 24.568695652173915,
+  "transaction_count": 46,
+  "client_id": 517
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f84e"
+  },
+  "total_spent": 1116.22,
+  "avg_spent": 38.490344827586206,
+  "transaction_count": 29,
+  "client_id": 962
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f84f"
+  },
+  "total_spent": 1103.51,
+  "avg_spent": 19.705535714285713,
+  "transaction_count": 56,
+  "client_id": 1358
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f850"
+  },
+  "total_spent": 1048.04,
+  "avg_spent": 23.289777777777775,
+  "transaction_count": 45,
+  "client_id": 1364
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f851"
+  },
+  "total_spent": 1044.59,
+  "avg_spent": 15.590895522388058,
+  "transaction_count": 67,
+  "client_id": 322
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f852"
+  },
+  "total_spent": 1041.99,
+  "avg_spent": 14.675915492957747,
+  "transaction_count": 71,
+  "client_id": 1145
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f853"
+  },
+  "total_spent": 945.56,
+  "avg_spent": 23.639,
+  "transaction_count": 40,
+  "client_id": 1530
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f854"
+  },
+  "total_spent": 916.19,
+  "avg_spent": 916.19,
+  "transaction_count": 1,
+  "client_id": 286
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f855"
+  },
+  "total_spent": 903.76,
+  "avg_spent": 24.425945945945944,
+  "transaction_count": 37,
+  "client_id": 260
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f856"
+  },
+  "total_spent": 896.18,
+  "avg_spent": 19.48217391304348,
+  "transaction_count": 46,
+  "client_id": 742
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f857"
+  },
+  "total_spent": 865.85,
+  "avg_spent": 30.923214285714288,
+  "transaction_count": 28,
+  "client_id": 1556
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f858"
+  },
+  "total_spent": 863.4,
+  "avg_spent": 26.98125,
+  "transaction_count": 32,
+  "client_id": 1779
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f859"
+  },
+  "total_spent": 852.25,
+  "avg_spent": 12.720149253731343,
+  "transaction_count": 67,
+  "client_id": 1151
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f85a"
+  },
+  "total_spent": 819.49,
+  "avg_spent": 11.381805555555555,
+  "transaction_count": 72,
+  "client_id": 169
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f85b"
+  },
+  "total_spent": 783.72,
+  "avg_spent": 21.77,
+  "transaction_count": 36,
+  "client_id": 1998
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f85c"
+  },
+  "total_spent": 755.44,
+  "avg_spent": 30.2176,
+  "transaction_count": 25,
+  "client_id": 1192
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f85d"
+  },
+  "total_spent": 713.62,
+  "avg_spent": 32.43727272727273,
+  "transaction_count": 22,
+  "client_id": 1298
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f85e"
+  },
+  "total_spent": 580.73,
+  "avg_spent": 15.695405405405406,
+  "transaction_count": 37,
+  "client_id": 19
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f85f"
+  },
+  "total_spent": 568.31,
+  "avg_spent": 7.785068493150685,
+  "transaction_count": 73,
+  "client_id": 1942
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f860"
+  },
+  "total_spent": 461.45,
+  "avg_spent": 5.070879120879121,
+  "transaction_count": 91,
+  "client_id": 1331
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f861"
+  },
+  "total_spent": 446.4,
+  "avg_spent": 19.40869565217391,
+  "transaction_count": 23,
+  "client_id": 1016
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f862"
+  },
+  "total_spent": 395.19,
+  "avg_spent": 23.246470588235294,
+  "transaction_count": 17,
+  "client_id": 1649
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f863"
+  },
+  "total_spent": 364.54,
+  "avg_spent": 364.54,
+  "transaction_count": 1,
+  "client_id": 220
+},
+{
+  "_id": {
+    "$oid": "6764d398c367c054c0e6f864"
+  },
+  "total_spent": 13.190000000000001,
+  "avg_spent": 2.1983333333333337,
+  "transaction_count": 6,
+  "client_id": 173
+}]
